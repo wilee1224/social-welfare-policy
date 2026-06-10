@@ -1,0 +1,242 @@
+{
+  "checked_at": "2026-06-10 11:42",
+  "summary": {
+    "total_items": 4,
+    "verified": 2,
+    "partial": 2,
+    "unverified": 0,
+    "corrections_made": 3
+  },
+  "items": [
+    {
+      "temp_id": "TEMP-004",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "summary / keyChanges[2] (시행일 2026.6.12)",
+          "claim": "2026.6.12 시행 — 미성년 자녀와 주소지 같은 부모가 부모 명의 인증서·휴대폰으로 자녀 장애인증명서 온라인 발급",
+          "result": "confirmed",
+          "correction": "",
+          "source": "newspim 2026-06-07(www.newspim.com/news/view/20260607000025), 헤럴드경제 biz.heraldcorp.com/article/10765375, 경향신문 khan.co.kr/article/202606071400021 — '오는 12일부터' 시행 명시"
+        },
+        {
+          "field": "keyChanges[1] (발급 채널 복지로·정부24)",
+          "claim": "발급 채널 복지로·정부24, 행정복지센터 직접 방문 불필요",
+          "result": "confirmed",
+          "correction": "",
+          "source": "복수 보도(newspim, 헤럴드경제) — '발급은 복지로와 정부24 누리집에서 가능' 확인"
+        },
+        {
+          "field": "analysis_notes / 정책 프레이밍 (소확신 과제)",
+          "claim": "행정 편의 확대 성격의 제도 신설 (스킬 지시상 '소확신 과제' 표현 확인 요청)",
+          "result": "confirmed",
+          "correction": "",
+          "source": "사이드뷰·에이블뉴스·한국시사경제 등 — 본 건은 보건복지부 인구·사회서비스 분야 '소확신(작지만 확실한 신뢰)' 과제 3건 중 1건으로 확인. 단, 04_merged_draft.json 본문에는 '소확신' 표현이 직접 기재되어 있지 않음(누락이지 오류는 아님)"
+        },
+        {
+          "field": "keyChanges[3] (보호아동 시설명 노출 차단)",
+          "claim": "보호아동의 시설명 노출 차단 개선",
+          "result": "confirmed",
+          "correction": "",
+          "source": "경향신문 khan.co.kr/article/202606072104005 — '시설 보호아동의 출신 복지시설명 노출 최소화' 확인"
+        },
+        {
+          "field": "internationalCases[0] (영국 DLA for children)",
+          "claim": "영국 Disability Living Allowance (DLA) for children — 부모·보호자 대리 신청, GOV.UK 채널, 온라인 폼 일시 사용 불가로 인쇄·우편/전화 안내",
+          "result": "confirmed",
+          "correction": "",
+          "source": "GOV.UK 'DLA for children: How to claim'(gov.uk/disability-living-allowance-children/how-to-claim) — 실존 제도, 부모/보호자 대리 청구 가능, 클레임 폼 다운로드·인쇄·우편 또는 전화(0800 121 4600) 안내, 스코틀랜드는 Child Disability Payment 별도 — 모두 일치"
+        },
+        {
+          "field": "source.siteName (출처 라벨)",
+          "claim": "source.url=newspim.com, siteName='보건복지부'",
+          "result": "unverifiable",
+          "correction": "siteName을 '뉴스핌(보건복지부 보도자료 기반)'으로 표기 권고 — URL은 newspim.com 언론보도이나 라벨은 보건복지부로 기재되어 출처 주체가 혼동될 수 있음",
+          "source": "URL 도메인(newspim.com)과 siteName(보건복지부) 불일치 — 1차 보도자료 원문이 아닌 언론 인용임"
+        }
+      ],
+      "verified_sources": [
+        "https://www.newspim.com/news/view/20260607000025",
+        "https://biz.heraldcorp.com/article/10765375",
+        "https://www.khan.co.kr/article/202606071400021/",
+        "https://www.khan.co.kr/article/202606072104005/",
+        "https://www.gov.uk/disability-living-allowance-children/how-to-claim"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "핵심 사실(시행일 6.12, 복지로·정부24 채널, 부모 명의 인증서 대리 발급, 보호아동 시설명 노출 차단) 모두 1차 보도 다수에서 확인. '소확신 과제' 분류도 사실로 확인. 영국 DLA for children 실존 확인. hallucination 없음. 다만 출처 라벨(siteName=보건복지부) vs URL(언론사) 불일치는 정정 권고. 발급 수수료·정확한 연령 기준은 원문 미명시이며 draft가 이를 impact_notes에 솔직히 '미확인'으로 표기한 점은 적절. overall: verified."
+    },
+    {
+      "temp_id": "TEMP-005",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "summary / howToApply.process (입법예고 기간 6.9~7.20)",
+          "claim": "모자보건법 시행규칙 개정안 입법예고 기간 2026.6.9~7.20",
+          "result": "confirmed",
+          "correction": "",
+          "source": "GNN뉴스통신 gnnnews.kr/171940, dazabi.com/insurance_magazine/article.php?id=24704 — '6월 9일부터 7월 20일까지 입법예고' 명시. 법제처 입법예고 게시(moleg.go.kr lawSeq=80144 모자보건법 시행규칙 일부개정령(안)) 존재 확인"
+        },
+        {
+          "field": "keyChanges[0] (폐업·휴업 30일 전 신고)",
+          "claim": "산후조리업자 폐업·휴업 시 해당일 30일 전 지방자치단체 신고 의무화",
+          "result": "confirmed",
+          "correction": "",
+          "source": "복수 보도 — '폐업이나 휴업을 하려면 해당일 30일 전에 지방자치단체에 신고' 명시 확인"
+        },
+        {
+          "field": "keyChanges[2] (선결제 예약금·대금 전액 반환)",
+          "claim": "영업 종료 전까지 선결제 예약금·대금 전액 정산·반환 의무",
+          "result": "confirmed",
+          "correction": "",
+          "source": "보도 — 개정 배경이 '선결제 유도 후 폐업해 예약금 미반환' 피해 예방이며, 반환 의무 신설이 골자임 확인"
+        },
+        {
+          "field": "contact / keyChanges[4] (의견 제출처 출산정책과 044-202-3399)",
+          "claim": "의견 제출 보건복지부 출산정책과 044-202-3399(FAX 044-202-3966), 국민참여입법센터 opinion.lawmaking.go.kr",
+          "result": "confirmed",
+          "correction": "",
+          "source": "보도 — '의견은 7월 20일까지 보건복지부 출산정책과나 국민참여입법센터를 통해 제출' 확인. 부서명·접수 경로 일치(전화번호 세부 자릿수는 1차 보도자료 PDF 기준이며 부서·채널은 확인됨)"
+        },
+        {
+          "field": "analysis_notes / impact_notes (입법예고 단계 표기)",
+          "claim": "입법예고 단계(확정 아님). 7.20까지 의견수렴 후 규제·법제 심사로 내용·시점 변동 가능",
+          "result": "confirmed",
+          "correction": "",
+          "source": "법제처·보도 모두 '입법예고' 단계로 확인. draft가 확정이 아님을 명시한 점 적절(미래 사실 확정 표현 없음)"
+        }
+      ],
+      "verified_sources": [
+        "https://www.gnnnews.kr/171940",
+        "https://dazabi.com/insurance_magazine/article.php?id=24704",
+        "https://www.moleg.go.kr/lawinfo/makingInfo.mo?lawSeq=80144&lawCd=0&lawType=TYPE5&mid=a10104010000"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "핵심 사실(입법예고 6.9~7.20, 30일 전 신고 의무화, 선결제 전액 반환, 출산정책과·국민참여입법센터 의견 제출) 모두 확인. 법제처 입법예고 게시도 실존. draft가 '입법예고=확정 아님'을 일관되게 명시해 미래 예측을 확정 사실로 표현하지 않음. 과태료 액수 등 수치는 원문 미명시이며 draft도 '미명시'로 솔직히 표기. 없는 법령번호/URL 없음. overall: verified. (출처 siteName=보건복지부, URL=heraldcorp 언론보도 — TEMP-004와 동일한 라벨 관행이나 내용 자체는 1차 확인됨)"
+    },
+    {
+      "temp_id": "TEMP-006",
+      "overall_status": "partial",
+      "checks": [
+        {
+          "field": "title / keyChanges[0] (1차 시범사업 공모·설명회 개최)",
+          "claim": "'맞춤형 자활지원체계' 개편을 위한 1차 시범사업 '공모·설명회' 개최",
+          "result": "corrected",
+          "correction": "공식 보도자료 제목은 '자활 지원 ‘참여자 맞춤형’으로 개편, 1차 시범사업 설명회 개최'로 '설명회'만 명시. '공모'는 보도자료 헤드라인에 없음 → '1차 시범사업 설명회 개최'로 수정 권고. 공모(정식 모집공고)와 설명회는 절차상 다른 단계이므로 '공모'를 단정 표기하지 말 것. 공모 일정은 별도 공고로 확인 필요한 미확정 사항.",
+          "source": "korea.kr 정책브리핑 보도자료(newsId=156761496) 제목 직접 확인 — '설명회 개최'"
+        },
+        {
+          "field": "date / source.publishedAt (보도 일자)",
+          "claim": "date 2026-06-09, source.publishedAt 2026-06-09",
+          "result": "corrected",
+          "correction": "korea.kr 해당 보도자료의 게시 메타데이터는 2026-05-14로 확인됨. 6-09 일자는 1차 출처와 불일치 → 게시일을 2026-05-14로 정정하거나, 6-09 근거가 되는 별도 출처를 명시할 것.",
+          "source": "WebFetch korea.kr pressReleaseView(newsId=156761496) 메타데이터 '2026.05.14'"
+        },
+        {
+          "field": "keyChanges[1] (2028년 본 개편)",
+          "claim": "2028년 본 개편 목표의 첫 단계",
+          "result": "confirmed",
+          "correction": "",
+          "source": "검색 요약 — '2028년 자활지원체계 본 개편을 목표로 한 첫 단계' 취지 확인. draft가 '목표/첫 단계'로 표기해 확정 단정 회피 — 적절"
+        },
+        {
+          "field": "keyChanges[2~4] (참여대상 확대·근로단가 인상·부양의무자 기준 완화)",
+          "claim": "참여대상 확대, 근로단가·인센티브 인상, 부양의무자 기준 완화 '방향 추진'",
+          "result": "confirmed",
+          "correction": "",
+          "source": "korea.kr 보도자료 및 2026 자활근로·급여 개편 관련 보도와 정합. draft가 본문 전반에서 '방향', '예정', '추진'으로 표기하고 구체 인상폭·완화 수준은 '원문 미명시·추정 불가'로 못 박은 점은 정확(미래 예측을 확정 사실로 표현하지 않음)"
+        },
+        {
+          "field": "internationalCases[0] (독일 Bürgergeld Kooperationsplan)",
+          "claim": "2023년 Hartz IV 대체 Bürgergeld가 Eingliederungsvereinbarung을 개인 맞춤형 Kooperationsplan으로 교체, 신뢰기간(Vertrauenszeit) 등",
+          "result": "confirmed",
+          "correction": "",
+          "source": "Wolters Kluwer·betanet·jobcenter 등 — Kooperationsplan이 2023.7.1부로 Eingliederungsvereinbarung을 대체한 실존 제도임 확인. 제도명·취지 정확"
+        },
+        {
+          "field": "internationalCases[1] (영국 Universal Credit Claimant Commitment)",
+          "claim": "Universal Credit의 Claimant Commitment + Work Coach 개인 맞춤, 2026년 WCA 폐지 방향",
+          "result": "confirmed",
+          "correction": "",
+          "source": "GOV.UK 'Universal Credit: Your claimant commitment'(gov.uk/universal-credit/your-claimant-commitment) 실존. Claimant Commitment·Work Coach 제도 정확(WCA 폐지 시점은 영국 정책개혁 진행형 사안)"
+        }
+      ],
+      "verified_sources": [
+        "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761496",
+        "https://www.wolterskluwer.com/de-de/expert-insights/buergergeld-kooperationsplan-eingliederungsvereinbarung",
+        "https://www.gov.uk/universal-credit/your-claimant-commitment"
+      ],
+      "hallucination_flags": [
+        "title·keyChanges[0]: 공식 보도자료는 '설명회 개최'인데 draft는 '공모·설명회'로 '공모'를 추가 — 절차 단정 과장 소지",
+        "date/publishedAt 2026-06-09: 1차 출처(korea.kr) 게시일 2026-05-14와 불일치 — 일자 근거 불명"
+      ],
+      "checker_notes": "정책 실체(맞춤형 자활지원체계 개편, 1차 시범사업, 2028년 본 개편, 참여대상 확대·근로단가 인상·부양의무자 완화 방향)와 해외 사례(독일 Bürgergeld Kooperationsplan, 영국 UC Claimant Commitment) 모두 실존·정확 확인. 그러나 (1) '공모' 표현이 공식 헤드라인('설명회')에 없어 과장 소지, (2) 날짜(6-09)가 1차 출처 게시일(5-14)과 불일치 — 두 가지 정정 필요로 overall: partial. draft가 인상 수치 등을 '미명시·추정 불가'로 표기한 hallucination 방지 처리는 우수."
+    },
+    {
+      "temp_id": "TEMP-007",
+      "overall_status": "partial",
+      "checks": [
+        {
+          "field": "title / summary / keyChanges[1] (전문가 포럼 개최)",
+          "claim": "기초연금 개편 방안 전문가 포럼 개최(서울역 회의실), 1차관 참석",
+          "result": "confirmed",
+          "correction": "",
+          "source": "이투데이 etoday.co.kr/news/view/2591901, 한국일보 hankookilbo.com A2026060915270002401 — 2026.6.9 서울 중구 서울역 회의실에서 현수엽 1차관 참석 '기초연금 개편 방향 전문가 포럼' 개최 확인"
+        },
+        {
+          "field": "summary / newPolicy (하후상박·저소득 우대 방향)",
+          "claim": "소득 하위 70% 균등 지급 → 저소득 노인일수록 더 많이 주는 '하후상박' 구조 전환 유력 검토(논의 단계)",
+          "result": "confirmed",
+          "correction": "",
+          "source": "이투데이·디지털타임스·뉴스핌·한국일보 — '하후상박형' 기초연금 개혁 논의 착수, '소득 적을수록 더 받는' 차등 구조 검토가 원문 기반임 확인. '하후상박' 표현 실재"
+        },
+        {
+          "field": "keyChanges[4] / eligibility (2026 선정기준액 단독 247만원)",
+          "claim": "2026년 단독가구 선정기준액 월 247만원, 부부가구 월 395만 2,000원 이하",
+          "result": "confirmed",
+          "correction": "",
+          "source": "보건복지부 보도자료 mohw.go.kr(list_no=1488478) '2026년 노인 단독가구 소득인정액 월 247만원 이하면 기초연금', 경향신문 khan.co.kr/article/202601012049005 — 단독 247만원·부부 395만2천원 확인(draft source URL과 동일 게시물)"
+        },
+        {
+          "field": "전반(title·summary·keyChanges·howToApply·impact_notes) 논의 단계 명시",
+          "claim": "'[논의 단계 - 확정 변경 아님]' 표기를 title·summary·newPolicy·process·impact_notes 등에 반복 명시",
+          "result": "confirmed",
+          "correction": "",
+          "source": "draft 자체 검수 — 모든 핵심 필드에 '논의 단계/확정 아님/미정' 명시 확인. 미래 예측을 확정 사실로 표현하지 않음. lifeImpact의 '가정적 예상(확정 아님)' 라벨링도 적절"
+        },
+        {
+          "field": "internationalCases[0] (영국 Pension Credit Guarantee Credit)",
+          "claim": "Guarantee Credit이 단신 주 £238, 부부 £363.25(2026/27)까지 소득 보전",
+          "result": "confirmed",
+          "correction": "",
+          "source": "GOV.UK pension-credit, 2026/27 rates 다수 출처 — 단신 £238/주, 부부 £363.25/주 정확 일치. 제도 실존·수치 정확"
+        },
+        {
+          "field": "internationalCases[2] (독일 Grundrente 수치)",
+          "claim": "약 130만 명에게 평균 월 €75 보충, 소득테스트 단신 €1,250·부부 €1,950 초과 시 감액",
+          "result": "corrected",
+          "correction": "소득테스트 임계값(단신 €1,250 / 부부 €1,950)은 Deutsche Rentenversicherung 기준과 일치하여 정확. 그러나 '평균 월 €75'는 부정확 — 공식 평균 보충액은 도입년(2021) 약 €83, 2024~2026년 약 €97 수준이며 €75는 개별 사례 예시값임. '평균 약 €83(2021)~€97(최근)' 또는 '평균 약 €80대'로 정정 권고. 수혜자 약 130만 명은 확인됨.",
+          "source": "Deutsche Rentenversicherung, Stiftung Warentest(test.de), ISSA iskm.issa.int/node/13569 — 임계값 €1,250/€1,950 확인, 평균 보충액 €83(2021)/€97(2024~) 확인"
+        },
+        {
+          "field": "internationalCases[1] (스웨덴 Garantipension)",
+          "claim": "소득연금 적거나 없는 저소득 고령자에 조세재원 최저보장, 16세부터 40년 거주 요건, 소득연금 증가 시 감액",
+          "result": "confirmed",
+          "correction": "",
+          "source": "Pensionsmyndigheten(연금청) — 65세 이상·40년 거주 요건·소득(연금)테스트 감액 구조 확인. 제도 실존·내용 정확(감액률 48% 세부치는 OECD/연금청 자료 계열로 보조 확인)"
+        }
+      ],
+      "verified_sources": [
+        "https://www.etoday.co.kr/news/view/2591901",
+        "https://www.hankookilbo.com/news/article/A2026060915270002401",
+        "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&list_no=1488478&act=view",
+        "https://www.gov.uk/pension-credit",
+        "https://www.pensionsmyndigheten.se/other-languages/english-engelska/english-engelska/guaranteed-pension-for-those-with-low-income",
+        "https://iskm.issa.int/node/13569"
+      ],
+      "hallucination_flags": [
+        "internationalCases[2] 독일 Grundrente: '평균 월 €75'는 공식 평균(약 €83~€97)과 불일치 — 개별 예시값을 평균으로 오기한 것으로 보임"
+      ],
+      "checker_notes": "포럼 개최(2026.6.9 서울역, 1차관 참석), 하후상박·저소득 우대 방향, 2026 선정기준액(단독 247만원/부부 395.2만원), 영국 Pension Credit(£238/£363.25)·스웨덴 Garantipension·독일 Grundrente 제도 실존 모두 확인. draft가 '논의 단계/확정 아님'을 전 필드에 일관 명시하고 가정적 예상에 라벨을 붙인 점은 모범적(미래 예측 확정 표현 없음). 유일한 수치 오류는 독일 Grundrente '평균 월 €75' — 공식 평균(€83~€97)과 달라 정정 권고. 이 1건 때문에 overall: partial. 없는 법령번호/URL 없음, 선정기준액 출처는 draft source와 동일한 보건복지부 1차 보도자료로 확인."
+    }
+  ]
+}

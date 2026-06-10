@@ -1,0 +1,330 @@
+{
+  "checked_at": "2026-06-10 19:30",
+  "summary": {
+    "total_items": 7,
+    "verified": 5,
+    "partial": 2,
+    "unverified": 0,
+    "corrections_made": 1
+  },
+  "items": [
+    {
+      "temp_id": "MTEMP-001",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "keyChanges[0] / summary / newPolicy",
+          "claim": "사회정서교육 6차시→17차시 확대",
+          "result": "confirmed",
+          "source": "서울신문 2026-06-10, 에듀프레스 2026; '현재 6차시 사회정서교육을 17차시로 확대' (범정부 청소년 자살예방 대책, 2026-06-09 발표)"
+        },
+        {
+          "field": "summary / lifeImpact / impact_notes",
+          "claim": "청소년 자살 사망자 2016년 273명→2025년 396명, 45% 증가",
+          "result": "confirmed",
+          "source": "아시아투데이 2026-06-09 '지난해 10대 자살 396명, 10년 새 45%↑'; 서울신문 2026-06-10 (10년 새 45.1% 증가, 273명→396명)"
+        },
+        {
+          "field": "keyChanges[4] / summary",
+          "claim": "청소년 자살률 2030년 10만명당 6.5명, 2035년 4.2명 감축 목표",
+          "result": "confirmed",
+          "source": "머니투데이/경기일보 2026-06-09; '2024년 10만명당 8명 → 2030년 6.5명 → 2035년 4.2명' (2024년 기준점이 원문에 함께 제시됨)"
+        },
+        {
+          "field": "title / summary / newPolicy / impact_notes",
+          "claim": "발표 단계(미확정 포함)임이 명시",
+          "result": "confirmed",
+          "source": "draft 전반('발표 단계', '발표 단계 대책으로 세부 시행 시기...달라질 수 있음') — 원 대책 자체가 2026-06-09 '범정부 대책 발표'로 보도된 것과 일치"
+        },
+        {
+          "field": "source.url",
+          "claim": "https://www.seoul.co.kr/news/society/education-news/2026/06/10/20260610010008",
+          "result": "confirmed",
+          "source": "WebSearch 결과에서 동일 URL의 서울신문 기사 실존 확인"
+        }
+      ],
+      "verified_sources": [
+        "서울신문 2026-06-10 (seoul.co.kr/.../20260610010008)",
+        "아시아투데이 2026-06-09",
+        "머니투데이 2026-06-09",
+        "에듀프레스 2026"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "핵심 수치(6→17차시, 273→396명/45%, 2030년 6.5명·2035년 4.2명) 모두 복수 언론 1차 보도와 일치. 2030/2035 목표의 기준점이 2024년 10만명당 8명임을 원문이 명시하고 있어 draft의 목표 수치 자체는 정확. 자살위기상담 109 통합 표기도 정확. 해외사례(일본 SOS교육·호주 headspace·영국호주 SEYMOUR)는 모두 실존 기관/연구로 출처 URL 형태가 정상이며 표제 항목 검증 범위 밖이나 명백한 hallucination 징후 없음."
+    },
+    {
+      "temp_id": "MTEMP-002",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "keyChanges[1] / summary / eligibility",
+          "claim": "조사 대상: 전국 중·고생 약 6만 명",
+          "result": "confirmed",
+          "source": "질병관리청 2026-06-08 보도자료 기반 보도(메디팜헬스/한국NGO신문); 전국 800개 표본학교, 2,400개 학급, 약 6만 명"
+        },
+        {
+          "field": "keyChanges[0] / title / summary",
+          "claim": "우울증 선별도구 PHQ-9 국가 단위 조사 최초 도입",
+          "result": "confirmed",
+          "source": "데일리안/서울경제/세다일리 2026-06-08; '올해 처음으로 우울증 선별도구 PHQ-9 도입'. 청소년건강행태조사는 2005년부터 시행된 국가통계조사로, 'PHQ-9 최초 도입' 표현은 해당 조사 기준으로 사실"
+        },
+        {
+          "field": "keyChanges[3] / process",
+          "claim": "조사기간 2026.6.8~7.3",
+          "result": "confirmed",
+          "source": "질병관리청; '6월 8일부터 7월 3일까지' (한국NGO신문/교육언론창 등 6.8 조간 보도와 일치)"
+        },
+        {
+          "field": "keyChanges[2]",
+          "claim": "스트레스 원인·외로움·주관적 행복감 항목 추가",
+          "result": "confirmed",
+          "source": "서울경제 2026-06-08; 우울감·외로움·주관적 행복감 등 정신건강 심층 문항 추가 보도와 일치"
+        }
+      ],
+      "verified_sources": [
+        "질병관리청 2026-06-08 보도자료(언론 인용)",
+        "서울경제 2026-06-08 (sedaily.com/article/20052575)",
+        "데일리안 2026-06-08",
+        "한국NGO신문 / 교육언론창 2026"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "'국가 단위 최초 도입' 표현은 '청소년건강행태조사'라는 국가통계조사에 PHQ-9를 처음 넣었다는 의미로 사실에 부합(미국 NHANES 등 타국 선례는 별개). draft의 comparator_notes도 미국 NHANES를 선례로, 영국은 임상 라우틴 사용으로 구분해 정확히 기술. source URL(sedaily.com/article/20052575) 실존 확인. 모든 핵심 수치·기간 일치."
+    },
+    {
+      "temp_id": "MTEMP-003",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "keyChanges[2] / summary / newPolicy",
+          "claim": "권역정신응급의료센터 8개소→10개소 확충",
+          "result": "confirmed",
+          "source": "찾기쉬운 생활법령정보(easylaw.go.kr) / 정책브리핑(korea.kr newsId=148929887); '권역정신응급의료센터 총 10개소로 확대' 확인. 확대 후 수치 10개소 일치(직전 8개소는 사업 연혁상 정합)"
+        },
+        {
+          "field": "keyChanges[0] / summary",
+          "claim": "발병초기 지원기간 기산단위 연(年)→일(日)로 변경",
+          "result": "confirmed",
+          "source": "easylaw.go.kr; '발병초기 지원가능 기간의 기산 단위가 연도(年)에서 일(日)로 변경' 명시 + 예시(2021.12.9 진단→2026.12.8까지) 일치"
+        },
+        {
+          "field": "keyChanges[3] / summary",
+          "claim": "1인당 연간 450만원 한도",
+          "result": "confirmed",
+          "source": "easylaw.go.kr; '1인당 연간 450만원 한도 내 정신질환 치료비 지원' 명시"
+        },
+        {
+          "field": "source.url",
+          "claim": "https://www.korea.kr/news/policyNewsView.do?newsId=148929887",
+          "result": "confirmed",
+          "source": "WebSearch에서 동일 newsId 정책브리핑 기사('정신질환자 치료비 지원 사업, 그것을 알고 싶다!') 실존 확인"
+        }
+      ],
+      "verified_sources": [
+        "찾기쉬운 생활법령정보 easylaw.go.kr (정신질환자 치료비 지원받기)",
+        "대한민국 정책브리핑 korea.kr newsId=148929887",
+        "지자체 보건소 안내(연수구/수원시 등)"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "기산단위 연→일, 450만원 한도, 응급센터 10개소 모두 정부 출처(easylaw.go.kr=법제처)에서 직접 확인. 등록기관 다양화(중독통합관리지원센터·청년마음건강센터 추가)는 사업지침 사항으로 별도 1차 확인은 못 했으나 표제 검증 항목이 아니며 정부 사업 흐름상 모순 없음. impact_notes의 신청창구(보건소)·등록(정신건강복지센터) 구분 설명도 정확."
+    },
+    {
+      "temp_id": "MTEMP-004",
+      "overall_status": "partial",
+      "checks": [
+        {
+          "field": "keyChanges[0] / title / summary",
+          "claim": "사업명 변경: 전국민 마음투자 지원사업→정신건강 심리상담 바우처",
+          "result": "confirmed",
+          "source": "복지로(bokjiro.go.kr) / 보건복지부(mohw.go.kr); '정신건강 심리상담 바우처사업(구 전국민 마음투자 지원사업)' 공식 표기 확인"
+        },
+        {
+          "field": "keyChanges[3] / summary / lifeImpact",
+          "claim": "2027년까지 소아·청소년 포함 100만 명 전문 심리상담 지원 목표",
+          "result": "corrected",
+          "correction": "공식·언론 출처는 '2027년까지 전 국민의 1%인 50만 명 단계적 확대'를 목표로 명시함. '100만 명'은 1차 출처에서 확인되지 않음 → '2027년까지 약 50만 명(전 국민의 1%) 목표'로 수정 권고. (summary, newPolicy, keyChanges[3], lifeImpact의 100만 명 2곳 모두 동일 수정 필요)",
+          "source": "정책브리핑 korea.kr newsId=148930946 / 복지로 / 사회서비스전자바우처(socialservice.or.kr); '2027년 50만 명' 단계적 확대"
+        },
+        {
+          "field": "lifeImpact",
+          "claim": "1인당 총 8회, 회당 단가 1급 8만원·2급 7만원",
+          "result": "confirmed",
+          "source": "복지로/보건복지부; '총 8회기, 1회당 1급 8만원·2급 7만원' 확인"
+        },
+        {
+          "field": "keyChanges[2] / process",
+          "claim": "신청 채널: 동 행정복지센터 또는 복지로 온라인",
+          "result": "confirmed",
+          "source": "복지로 서비스 안내 페이지(bokjiro.go.kr wlfareInfoId=WLF00005567)"
+        }
+      ],
+      "verified_sources": [
+        "복지로 bokjiro.go.kr (WLF00005567)",
+        "보건복지부 mohw.go.kr (정신건강 심리상담 바우처사업)",
+        "정책브리핑 korea.kr newsId=148930946",
+        "사회서비스전자바우처 socialservice.or.kr"
+      ],
+      "hallucination_flags": [
+        "'2027년까지 100만 명' 목표 수치 — 1차 출처는 '50만 명(전 국민 1%)'으로 명시. 근거 없이 부풀려진 수치로 판단되어 corrected 처리. summary·newPolicy·keyChanges[3]·lifeImpact 4개 위치에 동일 오류 반복됨"
+      ],
+      "checker_notes": "사업명 변경·신청채널·8회기·단가(8만/7만원)는 모두 정부 출처와 일치하나, 핵심 목표인원 '100만 명'이 출처와 불일치(실제 50만 명). 가장 눈에 띄는 수치 오류이므로 발행 전 반드시 50만 명으로 수정 필요. 해외사례 영국 IAPT는 별도 검증(아래)에서 'NHS Talking Therapies로 개편' 사실 확인되어 draft의 '구 IAPT' 표기 정확. 전체 partial."
+    },
+    {
+      "temp_id": "MTEMP-005",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "title / keyChanges[0] / summary",
+          "claim": "자살예방 예산 2025년 562억→2026년 708억원(20.6% 증액)",
+          "result": "confirmed",
+          "source": "보건복지부 보도자료(mohw.go.kr list_no=1487404) / 재활뉴스 2026; '562억→708억, 전년比 121억(20.6%) 증액' 정확히 일치"
+        },
+        {
+          "field": "keyChanges[1] / summary",
+          "claim": "자살유족 원스톱 지원 12개→17개 시·도로 확대, 2026년 7월까지",
+          "result": "confirmed",
+          "source": "보건복지부; '현재 12개 시·도 → 2026년 7월 전국 17개 시·도 확대' 일치"
+        },
+        {
+          "field": "keyChanges[2] / lifeImpact",
+          "claim": "원스톱 지원 내용: 심리상담·임시주거·특수청소·법률지원",
+          "result": "confirmed",
+          "source": "보건복지부; '심리상담, 임시주거, 특수청소, 법률지원' 명시(원문은 학자금 등도 추가 언급)"
+        }
+      ],
+      "verified_sources": [
+        "보건복지부 보도자료 mohw.go.kr list_no=1487404",
+        "재활뉴스 2026 (내년 자살예방 예산 708억원)",
+        "정책브리핑 gonggam.korea.kr"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "562억→708억, +121억, 20.6%, 12→17개 시·도, 2026년 7월까지, 4종 서비스 모두 보건복지부 1차 보도와 정확히 일치. draft 요약이 '약 21%'로 반올림하나 title/impact_notes에는 20.6%로 정확히 기재되어 문제 없음(요약의 '약 21%'는 허용 범위). 정부 출처 직접 확인되어 verified. 109 통합 표기 정확."
+    },
+    {
+      "temp_id": "MTEMP-006",
+      "overall_status": "partial",
+      "checks": [
+        {
+          "field": "keyChanges[2] / summary / lifeImpact",
+          "claim": "동료지원쉼터 설치·운영 신설",
+          "result": "confirmed",
+          "source": "GMMHC(경기광역정신건강복지센터) / 한국장애인개발원 '2025 동료지원쉼터 운영 매뉴얼' / 보다센터; 동료지원쉼터(주간형·종일형) 도입 확인, 2026-01-03 시행"
+        },
+        {
+          "field": "keyChanges[3] / summary / lifeImpact",
+          "claim": "절차조력서비스 및 동료지원인 양성 신설",
+          "result": "confirmed",
+          "source": "보건복지부 '2026년 정신질환자 절차조력지원 사업단 공모'(mohw.go.kr list_no=1488190); 절차조력인 제도(입원적합성심사·퇴원 등 참여, 의사소통 조력) 및 동료지원인 양성 법제화 확인"
+        },
+        {
+          "field": "keyChanges[4] / summary / impact_notes",
+          "claim": "개정 완료, 조문별 단계적 시행 (2026-01-03)",
+          "result": "confirmed",
+          "source": "GMMHC; '2026년 1월 3일 시행' 확인. '조문별 단계적 시행' 및 지역별 쉼터 설치 편차 서술도 시행규칙 개정 진행 상황과 부합"
+        },
+        {
+          "field": "source.url",
+          "claim": "https://www.law.go.kr/LSW/lsInfoP.do?urlMode=lsInfoP&lsId=000222",
+          "result": "unverifiable",
+          "correction": "lsId=000222는 일반·예시성 ID로 보이며 해당 URL이 정신건강복지법 실제 법령 페이지를 정확히 가리키는지 1차 확인 불가. 국가법령정보센터(law.go.kr)에서 '정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률' 정식 법령 링크로 교체 권고",
+          "source": "법령 본문 자체는 law.go.kr에 실존하나, draft에 적힌 특정 쿼리스트링(lsId=000222)의 정확성은 미확인"
+        }
+      ],
+      "verified_sources": [
+        "경기광역정신건강복지센터 gmmhc.or.kr (개정안 가결/시행)",
+        "보건복지부 mohw.go.kr (절차조력지원 사업단 공모, list_no=1488190)",
+        "한국장애인개발원 koddi.or.kr (동료지원쉼터 운영 매뉴얼)",
+        "보다센터 boda.or.kr"
+      ],
+      "hallucination_flags": [
+        "source.url의 lsId=000222 — 국가법령정보센터 법령ID 형식상 의심스러운 일반값. 실제 정신건강복지법 페이지로의 정확한 매핑 미확인(링크 교체 권고)"
+      ],
+      "checker_notes": "동료지원쉼터(주간형/종일형)·절차조력서비스(절차조력인)·동료지원인 양성 신설은 모두 정부·공공기관 출처에서 실존 확인. 신설 조항 자체의 실존성에는 문제 없음. 다만 출처로 제시된 law.go.kr URL의 lsId 값이 부정확해 보여 partial로 분류하고 정식 법령 링크 교체를 권고. impact_notes의 조문 인용(제15조의4, 제69조의2 등)은 본 검증 범위에서 1차 대조하지 못했으므로 발행 전 국가법령정보센터 원문 조번호 확인 권장."
+    },
+    {
+      "temp_id": "MTEMP-007",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "keyChanges[2] / summary / lifeImpact",
+          "claim": "현재 비자의입원의 74%가 보호의무자 입원",
+          "result": "confirmed",
+          "source": "메디포뉴스/메디칼타임즈/더인디고(김예지 의원 발의 보도); '2024년 기준 전체 비자의입원 중 74%가 보호의무자에 의한 입원' 명시"
+        },
+        {
+          "field": "summary / keyChanges[3] / impact_notes",
+          "claim": "발의 의원 국민의힘 김예지, 발의일 2025-09-25",
+          "result": "confirmed",
+          "source": "김예지 의원(국민의힘) '정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률 일부개정법률안' 대표발의; 보도에 '25일 대표발의' 명시, 기사일자 2025-09-25 (medicaltimes ID=1165392)"
+        },
+        {
+          "field": "newPolicy / summary",
+          "claim": "보호의무자 입원·동의입원 폐지, 국가책임제로 전환",
+          "result": "confirmed",
+          "source": "복수 언론; 보호의무자 보호의무 조항 삭제·보호의무자 입원 및 동의입원 폐지·행정입원/입원적합성심사 보완, 정신질환 국가책임제 요구 부합"
+        },
+        {
+          "field": "title / summary / newPolicy / keyChanges / howToApply / lifeImpact / impact_notes",
+          "claim": "[발의 단계 — 미통과]가 모든 관련 필드에 명시",
+          "result": "confirmed",
+          "source": "draft 직접 확인 — title, summary, newPolicy, keyChanges[0], eligibility, process, lifeImpact, impact_notes 전부에 '[발의 단계 — 미통과]' 태그 일관 명시. 실제로도 발의 후 국회 논의 중이며 미통과 상태와 일치"
+        }
+      ],
+      "verified_sources": [
+        "메디칼타임즈 medicaltimes.com (ID=1165392, 2025-09-25)",
+        "메디포뉴스 medifonews.com",
+        "더인디고 theindigo.co.kr",
+        "의협신문 / 시사저널(당사자단체 환영·의료계 우려)"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "발의자·발의일·74% 수치·폐지+국가책임제 방향·미통과 상태 모두 복수 언론 1차 보도와 일치. '미통과' 태그가 전 필드에 빠짐없이 명시되어 미시행 정책을 시행된 것처럼 기술하는 오류 없음(매우 양호). source가 정부 도메인이 아닌 의료계 언론이나 발의 단계 사안 특성상 적정. 일본 보호자제도 폐지·영국 MHA 2025 해외사례는 별도 검증(아래)에서 사실 확인됨."
+    },
+    {
+      "temp_id": "INTL-MTEMP-004",
+      "overall_status": "verified",
+      "checks": [
+        {
+          "field": "internationalCases[0] (영국)",
+          "claim": "영국 IAPT(2008~)가 현재 NHS Talking Therapies로 개편됨",
+          "result": "confirmed",
+          "source": "NHS England / OCD-UK / Healthwatch Salford; IAPT는 2023년 1월 'NHS Talking Therapies for Anxiety and Depression'으로 전국 리브랜딩(2023년 말까지 통일). draft의 'NHS Talking Therapies (구 IAPT)' 표기 정확"
+        }
+      ],
+      "verified_sources": [
+        "NHS England england.nhs.uk/mental-health/adults/nhs-talking-therapies/",
+        "OCD-UK ocduk.org/nhs-talking-therapies/",
+        "Healthwatch Salford (2023-01-19)"
+      ],
+      "hallucination_flags": [],
+      "checker_notes": "IAPT 실존 및 NHS Talking Therapies로의 개편(2023.1) 모두 확인. draft가 이미 '(구 IAPT)'로 정확히 반영해 두어 수정 불필요. 2023/24년 67만 명 치료코스 수치는 NHS 연차보고 규모와 정합(별도 정밀 대조는 생략)."
+    },
+    {
+      "temp_id": "INTL-MTEMP-007",
+      "overall_status": "partial",
+      "checks": [
+        {
+          "field": "internationalCases[0] (일본)",
+          "claim": "일본 보호자제도(hogosha) 2014년 재산보호·치료지속 의무 삭제",
+          "result": "confirmed",
+          "source": "ICJ / PMC11262079 / HGPI; 정신보건복지법 개정안이 2013-06-13 통과되어 가족의 보호자(hogosha) 의무가 폐지되고 2014년 4월 시행. '보호자 의무 삭제'는 사실. 단 '법 통과 2013년 / 시행 2014년'의 시점 구분 유의"
+        },
+        {
+          "field": "internationalCases[1] (영국)",
+          "claim": "영국 Mental Health Act 2025 — 최근친 폐지·지명인 도입, 2025-12-18 국왕재가",
+          "result": "confirmed",
+          "source": "legislation.gov.uk MHA 2025 / Community Care 'MHA 2025 summarised'; nearest relative→nominated person 전환은 사실. draft의 핵심 취지 정확(재가 정확일자는 추가 1차 대조 권장)"
+        }
+      ],
+      "verified_sources": [
+        "ICJ icj.org (Japan mentally ill protection)",
+        "PMC11262079 (Community-Based Mental Health Care in Japan)",
+        "HGPI hgpi.org (Mental Health Policy in Japan)",
+        "legislation.gov.uk / Community Care (MHA 2025)"
+      ],
+      "hallucination_flags": [
+        "일본 보호자제도 폐지의 시점 표기 주의 — 법 개정 '통과'는 2013년, '시행'은 2014년. draft가 '2014년 재산보호·치료지속 의무 삭제'로 적은 것은 시행연도 기준으로 허용 가능하나, 통과 2013/시행 2014 구분을 병기하면 더 정확",
+        "draft가 별도로 적은 '2023년 가족의 입원 결정 의무 삭제' 항목은 본 검증에서 1차 출처로 명확히 단정하지 못함(의료보호입원 동의 주체 변경 관련 2022년 법개정·2024년 시행 흐름과 연도가 엇갈릴 수 있어 발행 전 추가 확인 권장)"
+      ],
+      "checker_notes": "일본 보호자(hogosha) 의무 폐지(2013 통과/2014 시행)와 영국 MHA 2025(최근친→지명인)는 핵심 사실 모두 확인. 다만 (1) 일본 2014의 통과/시행 연도 구분, (2) draft가 추가한 일본 '2023년 입원결정 의무 삭제'의 정확한 연도/내용은 1차 단정 불가하여 partial로 두고 발행 전 보강 확인을 권고. 국가책임제 방향성·가족부담 경감 취지의 유사성 비교는 타당."
+    }
+  ]
+}

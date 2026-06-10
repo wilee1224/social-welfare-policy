@@ -1,0 +1,203 @@
+{
+  "analyzed_at": "2026-06-10 16:10",
+  "items": [
+    {
+      "temp_id": "MTEMP-001",
+      "internationalCases": [
+        {
+          "country": "일본",
+          "policyName": "학교 자살예방교육 / SOS 발신교육 (SOSの出し方教育) — 자살대책기본법(자살대책기본법, 2006) 및 자살종합대책대강",
+          "similarity": "국내 사회정서교육 17차시 확대 및 교원·또래 생명지킴이 양성과 유사하게, 일본은 자살대책기본법에 근거해 MEXT(문부과학성)가 학교 단위 자살예방교육·SOS 발신교육을 학생 대상으로 시행하고 교원용 가이드북을 보급. 청소년 도움요청(support-seeking) 인식 제고를 목표로 함",
+          "difference": "국내안은 사회정서교육을 6→17차시로 정량 확대하고 AI 위기징후 발굴 시스템을 결합한 점이 특징인 반면, 일본의 SOS 발신교육은 지역 자원봉사자·지자체 협력형 대면 프로그램 중심으로 AI 기반 발굴 요소는 명시되지 않음. 일본은 전국 의무화 여부가 학교별로 상이",
+          "source": "NCBI PMC (Suicide Prevention Program... SOS Output, PMC9033034) https://pmc.ncbi.nlm.nih.gov/articles/PMC9033034/ ; 일본 정부 자살예방정책 효과 연구 PMC10755549 https://pmc.ncbi.nlm.nih.gov/articles/PMC10755549/",
+          "verified": true
+        },
+        {
+          "country": "호주",
+          "policyName": "headspace (National Youth Mental Health Foundation) — 12~25세 청소년 정신건강 조기개입 (2006~, 연방 보건노인부 재정지원)",
+          "similarity": "청소년 자살예방·정신건강 위기 대응을 위한 범정부 차원의 조기개입 체계라는 점에서 유사. 학교·지역사회와 연계해 청소년 접근성을 높이고 무료/저비용으로 상담·심리지원 제공",
+          "difference": "headspace는 학교 교육과정 확대가 아니라 청소년 친화형 통합 1차의료 센터망(150여 개소) 구축 모델 중심. 국내안의 핵심인 AI 위기징후 발굴·24시간 모니터링 및 사회정서교육 차시 확대와는 접근 방식이 다름",
+          "source": "Australian Government Dept of Health (headspace) / NCBI PMC6585724 'Australia's innovation in youth mental health care: The headspace centre model' https://pmc.ncbi.nlm.nih.gov/articles/PMC6585724/ ; https://headspace.org.au/",
+          "verified": true
+        },
+        {
+          "country": "영국·호주(공동연구)",
+          "policyName": "청소년 자살예방 시스템 모델링 연구 (SEYMOUR 프로젝트, 2022~2025)",
+          "similarity": "보건·지역사회 전반에 걸친 정책 조합이 청소년 자살예방에 미치는 영향을 시뮬레이션해 근거기반 정책을 설계한다는 점에서 국내 범정부 대책의 목표지향(2030/2035 자살률 감축 목표)과 유사",
+          "difference": "이는 정책 자체가 아니라 정책설계용 시스템 모델링 연구 단계로, 국내처럼 AI 발굴·교육 확대를 즉시 시행하는 집행 대책과는 성격이 다름",
+          "source": "NCBI PMC10432673 (systems modelling and simulation study protocol, Australia & UK) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10432673/",
+          "verified": true
+        }
+      ],
+      "search_queries_used": [
+        "youth suicide prevention policy school social emotional learning AI Japan UK Australia 2025",
+        "Japan SOS education suicide prevention schools mandatory MEXT students mental health literacy"
+      ],
+      "comparator_notes": "AI 기반 위기징후 24시간 모니터링까지 결합한 청소년 자살예방 대책은 국내안이 비교적 선도적. 해외는 SEL·SOS교육(일본), 센터망(호주) 등 개입 방식이 다양하나 AI 결합 사례는 정책 단위로 확인되지 않음. 일본 SOS교육의 전국 의무화 여부는 학교별 상이로 확인됨."
+    },
+    {
+      "temp_id": "MTEMP-002",
+      "internationalCases": [
+        {
+          "country": "미국",
+          "policyName": "NHANES (National Health and Nutrition Examination Survey) — PHQ-9 우울증 선별 모듈 (청소년 포함)",
+          "similarity": "국가 단위 대표성 표본조사에 PHQ-9(9문항)를 우울증 선별도구로 도입한 점이 국내 청소년건강행태조사 PHQ-9 도입과 직접적으로 유사. NHANES는 12세 이상 청소년에도 PHQ-9 우울 선별을 적용",
+          "difference": "NHANES는 가구면접+이동검진센터(MEC)의 신체검진을 결합한 종합 보건영양조사로 검진형 설계인 반면, 국내 청소년건강행태조사는 중·고생 약 6만 명 대상 학교기반 자기기입식 조사. 미국은 PHQ-9가 이미 정착되어 '최초 도입'이 아님",
+          "source": "US CDC NCHS NHANES Depression Screener (Youth) Codebook https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_DPQY_R.htm ; CDC NCHS Data Brief No.527 (Apr 2025) https://www.cdc.gov/nchs/products/databriefs/db527.htm",
+          "verified": true
+        },
+        {
+          "country": "미국(데이터 활용 결과)",
+          "policyName": "NHANES PHQ-9 기반 청소년 우울 유병률 산출 (2021.8~2023.8 데이터)",
+          "similarity": "PHQ-9를 국가조사에 적용해 청소년(12~19세) 우울 유병률을 산출·공표하는 방식이 국내 도입 목적(국가 단위 청소년 정신건강 지표 생산)과 동일. 해당 조사에서 12~19세 우울 유병률 19.2%로 최고치 산출",
+          "difference": "산출된 지표를 정책 모니터링에 활용하는 단계는 동일하나, 미국은 PHQ-9 컷오프(예: ≥10) 운용 등 방법론이 축적된 상태이며 국내는 도입 첫 회차로 시계열 비교 기반이 아직 없음",
+          "source": "CDC NCHS Data Brief No.527 'Depression Prevalence in Adolescents and Adults' (2025) https://www.cdc.gov/nchs/data/databriefs/db527.pdf ; NHANES DPQ_L (2021-2023) https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DPQ_L.htm",
+          "verified": true
+        }
+      ],
+      "search_queries_used": [
+        "PHQ-9 depression screening national health survey adolescents NHANES NHS"
+      ],
+      "comparator_notes": "미국 NHANES가 청소년 포함 국가조사 PHQ-9 적용의 명확한 선례로 확인됨(공신력 1차 출처 CDC). 영국 NHS의 경우 PHQ-9는 NHS Talking Therapies 등 임상 라우틴 모니터링에서 사용되나, '국가 대표 청소년 건강조사' 단위로 PHQ-9를 적용한 사례는 이번 검색에서 1차 출처로 명확히 확인되지 않아 미국 단일국 중심으로 기재(2개국 이상 요건 관련 한계 명시)."
+    },
+    {
+      "temp_id": "MTEMP-003",
+      "internationalCases": [
+        {
+          "country": "일본",
+          "policyName": "자립지원의료(정신통원의료) 自立支援医療(精神通院医療) — 장애인종합지원법상 정신과 외래 의료비 공적지원",
+          "similarity": "정신질환자의 외래 치료 지속을 위해 의료비 본인부담을 경감하는 공적 지원이라는 점에서 국내 정신질환자 치료비 지원사업과 동일한 목적. 만성 정신질환(우울·불안·조현병 등) 환자 대상",
+          "difference": "일본은 통상 본인부담 30%를 10%로 경감(나머지 20%는 국가50%·도도부현50% 공비 부담)하는 정률 경감 방식인 반면, 국내안은 발병초기 지원기간 기산단위를 연→일로 변경하고 등록기관을 다양화하며 1인당 연간 450만원 한도의 정액 지원. 일본은 한도형이 아닌 본인부담률 경감형",
+          "source": "Tandfonline/DovePress 'The Use of the Japanese Public Financial Support... Outpatient Treatments for Schizophrenia' (PPA, 2021) https://www.tandfonline.com/doi/full/10.2147/PPA.S282958 ; PubMed 33564227 https://pubmed.ncbi.nlm.nih.gov/33564227/",
+          "verified": true
+        },
+        {
+          "country": "독일",
+          "policyName": "법정건강보험(GKV) 정신과 외래·정신치료 급여 — 진단된 정신질환 외래치료 보장",
+          "similarity": "정신질환(우울·불안·PTSD 등) 진단 시 외래 정신치료를 공적보험이 보장해 치료비 부담을 경감한다는 점에서 유사. 독일 거주자 약 90%가 가입한 GKV가 정신과 진료·약제·입원을 포괄 보장",
+          "difference": "독일 GKV는 외래 정신치료에 사실상 재정장벽이 없는 보편급여 구조(입원 후속치료만 연 최대 28일 1일 10유로 본인부담)인 반면, 국내안은 별도 지원사업의 등록·한도(연 450만원) 기반. 독일은 별도 사업이 아닌 보험급여 일반에 내장",
+          "source": "InformedHealth.org/NCBI Bookshelf 'Health care in Germany' https://www.ncbi.nlm.nih.gov/books/NBK298834/ ; NCBI PMC5559774 (outpatient psychotherapy utilization, GKV registry) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5559774/",
+          "verified": true
+        }
+      ],
+      "search_queries_used": [
+        "Japan jiritsu shien iryo psychiatric outpatient medical care cost support self-reliance",
+        "Germany statutory health insurance psychiatric outpatient treatment copayment coverage GKV mental illness"
+      ],
+      "comparator_notes": "일본 자립지원의료가 가장 직접적 비교사례(외래 치료지속 효과: 이용자 평균 통원기간 3.02년 vs 비이용자 1.09년 실증). 국내는 별도 지원사업+정액한도, 일본·독일은 보험 본인부담 경감/보편급여로 제도 설계가 상이한 점이 핵심 차이."
+    },
+    {
+      "temp_id": "MTEMP-004",
+      "internationalCases": [
+        {
+          "country": "영국",
+          "policyName": "NHS Talking Therapies (구 IAPT, Improving Access to Psychological Therapies, 2008~)",
+          "similarity": "우울·불안 등 흔한 정신건강 문제를 겪는 일반 주민에게 근거기반 심리치료(talking therapy)를 무료로 제공하고 본인 자가의뢰(self-referral)로 접근 가능한 점이 국내 심리상담 바우처(행정복지센터/복지로 신청)와 유사. 대규모 대상(2023/24년 67만 명 치료 코스 제공)",
+          "difference": "IAPT는 NHS가 직접 제공·무료인 단계적 케어(stepped care) 임상서비스인 반면, 국내안은 바우처를 통한 민간 전문 심리상담 구매 방식(2027년까지 100만 명, 소아·청소년 포함 목표). 국내는 바우처형, 영국은 NHS 직접제공형",
+          "source": "NHS England 'NHS Talking Therapies for anxiety and depression' https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/",
+          "verified": true
+        },
+        {
+          "country": "호주",
+          "policyName": "Better Access initiative — Medicare 기반 심리치료 본인부담 환급 (정신건강치료계획, MHCP)",
+          "similarity": "GP가 작성한 정신건강치료계획을 통해 임상 진단된 정신질환자에게 심리치료 비용을 공적으로 보조한다는 점에서 국내 바우처와 유사. 연간 일정 회기(개인 최대 10회+집단 10회) 비용 보조",
+          "difference": "Better Access는 Medicare 본인부담 환급(rebate)형으로 GP 의뢰·진단 게이트키핑이 전제되고 회기 상한이 있는 반면, 국내안은 진단 전 정서적 어려움 단계의 주민까지 포괄하는 바우처 발급형으로 의료 게이트키핑이 상대적으로 낮음",
+          "source": "Australian Government Dept of Health 'Better Access initiative' https://www.health.gov.au/our-work/better-access-initiative",
+          "verified": true
+        },
+        {
+          "country": "독일",
+          "policyName": "정신치료 구조개혁(Psychotherapie-Strukturreform, 2017) — 정신치료 상담시간·급성단기개입 신설로 대기시간 단축",
+          "similarity": "정신치료 접근성 제고(특히 대기시간 단축)를 위한 공적 개입이라는 점에서 국내 바우처 확대(접근성·이용자 100만 명 목표)와 정책 목표가 유사. 모든 등록 정신치료사에 주 100분 상담시간 제공 의무 부과",
+          "difference": "독일 개혁은 GKV 급여 구조 내 상담시간·급성단기개입 신설로 접근 절차를 개선한 것이며 바우처 지급이 아님. 또한 개혁 후에도 초진~치료 개시 평균 약 142일 대기 등 대기시간 단축 효과는 제한적이었다는 평가",
+          "source": "Springer 'Wartezeiten auf einen Psychotherapieplatz...' https://link.springer.com/article/10.1007/s00278-021-00551-0 ; NCBI PMC11413775 'Almost no Change in Waiting Times for Outpatient Psychotherapy After an Amendment to the Law' https://pmc.ncbi.nlm.nih.gov/articles/PMC11413775/",
+          "verified": true
+        }
+      ],
+      "search_queries_used": [
+        "Australia Better Access initiative Medicare psychology sessions mental health subsidy",
+        "UK NHS Talking Therapies IAPT Improving Access Psychological Therapies free referral",
+        "Germany Psychotherapie Wartezeit reform statutory health insurance psychotherapy waiting time Psychotherapeutengesetz"
+      ],
+      "comparator_notes": "영국 IAPT(직접제공·무료)와 호주 Better Access(Medicare 환급)가 양대 비교 모델. 국내 바우처는 진단 전 단계 주민까지 포괄하는 점에서 게이트키핑이 낮은 편. 독일 사례는 접근성 개혁의 한계(대기 평균 142일 잔존)도 함께 확인되어 시사점 있음."
+    },
+    {
+      "temp_id": "MTEMP-005",
+      "internationalCases": [
+        {
+          "country": "영국",
+          "policyName": "Support After Suicide Partnership (SASP, 2013~) 및 NHS 자살유족 사별지원 서비스",
+          "similarity": "자살유족(사별자)에게 적시·적정 사별지원을 제공하는 전국 확대 체계라는 점에서 국내 자살유족 원스톱 지원의 전국(17개 시·도) 확대와 직접적으로 유사. SASP는 NHS England와 협력해 2024년까지 잉글랜드 전 지역에 자살 사별지원을 보급하는 목표",
+          "difference": "SASP는 80여 개 회원단체 네트워크형 파트너십(민관 협력 허브)으로 NHS와 결합한 구조인 반면, 국내안은 심리상담·임시주거·특수청소·법률지원을 묶은 '원스톱' 패키지를 지자체 단위로 제공. 국내는 임시주거·특수청소 등 실무지원이 패키지에 포함된 점이 특징",
+          "source": "Support After Suicide Partnership 'About SASP' https://supportaftersuicide.org.uk/about/ ; SASP Central Hub https://hub.supportaftersuicide.org.uk/",
+          "verified": true
+        },
+        {
+          "country": "일본",
+          "policyName": "자살대책기본법(2006) 기반 자살유족(自死遺族) 지원 — Life Link '전국 캐러밴' 등 사별자 지원",
+          "similarity": "법정 자살대책 틀 안에서 자살 사별자 지원(피어그룹·전문상담)을 국가전략으로 명시·시행한다는 점에서 국내 자살유족 지원 확대와 유사. 자살을 개인이 아닌 사회문제로 보고 다층적 사별지원을 제도화",
+          "difference": "일본은 NPO(예: Life Link)·자조모임 중심의 사별자 임파워먼트형 지원이 두드러지며, 국내안처럼 임시주거·특수청소·법률지원을 결합한 지자체 행정 패키지형 '원스톱' 모델과는 전달체계가 다름",
+          "source": "Asia-Pacific Journal: Japan Focus 'Suicide is a social not an individual problem' https://apjjf.org/John-Breen/2507/article ; ResearchGate 'Self-help groups for family survivors of suicide in Japan' https://www.researchgate.net/publication/267230050",
+          "verified": true
+        }
+      ],
+      "search_queries_used": [
+        "UK Support after Suicide Partnership bereavement support service NHS",
+        "Japan suicide bereavement family support izoku jisatsu taisaku center"
+      ],
+      "comparator_notes": "영국 SASP가 NHS와 결합한 전국 사별지원 보급의 명확한 선례. 국내안의 차별점은 심리상담뿐 아니라 임시주거·특수청소·법률지원을 결합한 '원스톱' 실무지원 패키지로, 행정 전달체계 측면에서 비교적 통합적."
+    },
+    {
+      "temp_id": "MTEMP-006",
+      "internationalCases": [
+        {
+          "country": "미국",
+          "policyName": "Certified Peer Specialist (동료지원전문가) 제도 — Medicaid/Medicare 급여화 (2007 HHS 근거기반 인정)",
+          "similarity": "정신질환 당사자의 경험(lived experience)에 기반한 동료지원을 제도화하고 양성·인증 체계를 둔다는 점에서 국내 정신건강복지법 개정의 '동료지원인 양성' 및 동료지원쉼터 신설과 직접적으로 유사. 2007년 미 HHS가 동료지원을 근거기반 실천으로 인정해 50개 주에서 Medicare·Medicaid 급여 대상화",
+          "difference": "미국은 동료지원을 Medicaid 보험급여 서비스로 상환(48개 주+DC가 상환)하고 인증요건을 주(州)별로 규정하는 보험상환 기반 모델인 반면, 국내안은 법률에 동료지원인 양성·동료지원쉼터 설치·운영 근거를 신설하는 법정서비스 기반. 국내는 쉼터(공간) 설치까지 법정화한 점이 특징",
+          "source": "Policy Center for Maternal Mental Health 'Gaps in Peer Support Reimbursement and Certification in the US' https://policycentermmh.org/gaps-in-peer-support-reimbursement-and-certification-in-the-united-states/ ; Mental Health America https://mhanational.org/resources/how-become-peer-support-specialist/",
+          "verified": true
+        },
+        {
+          "country": "영국",
+          "policyName": "NHS Peer Support Workers (동료지원종사자) — NHS 정신건강 인력으로 편입",
+          "similarity": "당사자 경험 기반 동료지원 인력을 정신건강 서비스 공식 인력으로 양성·배치한다는 점에서 국내 동료지원인 양성과 유사. NHS 정신건강 전환 프로그램 내 성인 정신건강 지원 인력으로 동료지원이 포함",
+          "difference": "영국은 NHS 고용·서비스 인력 모델 중심인 반면, 국내안은 동료지원쉼터라는 별도 공간·서비스(절차조력서비스 포함)를 법령에 신설하는 방식. 국내는 절차조력서비스 등 권리옹호 요소가 함께 법정화됨",
+          "source": "NHS England Mental Health Transformation / Transformation Partners in Health and Care https://www.transformationpartners.nhs.uk/programmes/mental-health-transformation/support-for-adults/improving-access-to-psychological-therapies/",
+          "verified": true
+        }
+      ],
+      "search_queries_used": [
+        "Certified Peer Specialist mental health Medicaid United States peer support workers"
+      ],
+      "comparator_notes": "미국 Certified Peer Specialist가 동료지원 제도화의 가장 성숙한 선례(보험상환 기반). 국내안은 동료지원'쉼터'(공간) 설치와 절차조력서비스까지 법령에 함께 신설하는 점에서 통합적. 영국 NHS 동료지원종사자 출처는 정신건강 전환 프로그램 페이지로 확인되며, 별도 1차 정책문서 추가 확인 권장."
+    },
+    {
+      "temp_id": "MTEMP-007",
+      "internationalCases": [
+        {
+          "country": "일본",
+          "policyName": "정신보건복지법상 보호자제도(保護者制度, hogosha) 단계적 폐지 — 1988년 가족 자살방지 의무 삭제, 2014년 재산보호·치료지속 의무 삭제, 2023년 가족의 입원 결정 의무 삭제",
+          "similarity": "비자의 입원에서 가족(보호자)의 책임·권한을 단계적으로 폐지하고 가족 부담을 덜어내는 방향이라는 점에서 국내 보호의무자 입원 폐지·국가책임제 전환 발의와 직접적으로 유사. 특히 2023년 '가족의 입원 결정 의무 삭제'는 국내안과 핵심 취지가 일치",
+          "difference": "일본은 1988→2014→2023년에 걸쳐 보호자 의무를 항목별로 점진 삭제하는 방식인 반면, 국내안은 보호의무자 입원·동의입원을 일괄 폐지하고 '국가책임제'로 전환하는 구조 전환을 지향. 또한 국내안은 현재 발의 단계(미통과)",
+          "source": "PubMed 'Reform of hogosha system and psychiatric practice in Japan' (PMID 7799536) https://pubmed.ncbi.nlm.nih.gov/7799536/ ; Cambridge Core BJPsych International 'Mental health and psychiatry in Japan' https://www.cambridge.org/core/journals/bjpsych-international/article/mental-health-and-psychiatry-in-japan/76BE3DCE07D0ACD35810A25F0EA4D631",
+          "verified": true
+        },
+        {
+          "country": "영국",
+          "policyName": "Mental Health Act 2025 (잉글랜드·웨일스) — '최근친(nearest relative)' 폐지 및 환자 지정 '지명인(nominated person)' 도입 (2025.12.18 국왕재가)",
+          "similarity": "비자의 입원에서 가족(혈연 기반 최근친)이 자동으로 대리권을 갖던 구조를 환자 본인이 선택하는 방식으로 전환한다는 점에서 국내 보호의무자 입원 폐지의 취지와 유사. 입원 기준에도 '중대한 위해(serious harm)' 요건을 새로 도입해 비자의 입원 문턱을 강화",
+          "difference": "영국은 최근친을 폐지하되 환자가 '지명인'을 선임하는 대체 대리인 모델을 두고(능력 없을 때 AMHP가 지명) 권한·옹호를 강화하는 개정인 반면, 국내안은 보호의무자 입원 자체를 폐지하고 국가책임제로 전환하는 발의. 영국은 이미 입법 완료(단계적 시행), 국내는 미통과 단계",
+          "source": "legislation.gov.uk 'Mental Health Act 2025' (c.33, enacted) https://www.legislation.gov.uk/ukpga/2025/33/enacted ; UK House of Commons Library / Community Care 'The Mental Health Act 2025 summarised' https://www.communitycare.co.uk/content/news/the-mental-health-act-2025-summarised",
+          "verified": true
+        }
+      ],
+      "search_queries_used": [
+        "Japan 2014 mental health act abolished guardian hogosha involuntary psychiatric admission reform",
+        "UK Mental Health Act reform 2025 involuntary admission nearest relative changes",
+        "England Mental Health Act 2025 community treatment order patient choice statutory care plan advance"
+      ],
+      "comparator_notes": "일본이 가장 직접적 비교사례 — 보호자(hogosha) 입원결정 의무가 2023년 폐지되어 국내 발의안 방향과 정확히 부합(단, 일본은 항목별 점진 폐지, 국내는 일괄 폐지+국가책임제). 영국 MHA 2025는 최근친→지명인 전환으로 가족 자동대리 구조를 해체한 완료 입법. 국내안은 발의 단계(미통과)임을 명시."
+    }
+  ]
+}

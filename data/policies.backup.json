@@ -1,0 +1,431 @@
+{
+  "lastUpdated": "2026-06-10",
+  "changes": [
+    {
+      "id": "2026-0004",
+      "date": "2026-06-07",
+      "title": "미성년 자녀 장애인증명서 온라인 발급 신설",
+      "category": "장애인복지",
+      "summary": "미성년 자녀와 주소지가 같은 부모는 부모 명의 인증서·휴대폰으로 복지로·정부24에서 자녀의 장애인증명서를 온라인 발급할 수 있게 되며 2026.6.12 시행됩니다.",
+      "previousPolicy": "본인 명의 인증서·휴대폰이 없는 미성년 장애인은 온라인 발급이 불가해 보호자가 행정복지센터를 직접 방문해야 했음",
+      "newPolicy": "미성년 자녀와 주소지가 동일한 부모는 부모 명의 인증서·휴대폰으로 온라인(복지로·정부24)에서 자녀의 장애인증명서를 발급할 수 있게 신설(시행일 2026.6.12)",
+      "keyChanges": [
+        "부모 명의 인증서·휴대폰으로 미성년 자녀 장애인증명서 온라인 발급 신설",
+        "발급 채널 복지로·정부24, 행정복지센터 직접 방문 불필요",
+        "시행일 2026.6.12",
+        "보호아동의 시설명 노출 차단 개선",
+        "강원·경북·경남 지역사회서비스투자사업 비대면 결제방식 2026.7.1 도입"
+      ],
+      "howToApply": {
+        "eligibility": "미성년(만 19세 미만) 장애인 자녀와 주민등록상 주소지가 동일한 부모. 자녀 본인 명의의 공동·금융인증서나 휴대폰 본인인증 수단이 없어 그동안 온라인 발급이 불가능했던 미성년 등록장애인의 보호자가 주 대상이다. (시행일 2026.6.12)",
+        "process": "1) 복지로(www.bokjiro.go.kr) 또는 정부24(www.gov.kr) 접속 → 2) 부모 본인 명의의 인증서 또는 휴대폰 본인인증으로 로그인 → 3) 증명서 발급 메뉴에서 '장애인증명서' 선택 → 4) 주소지가 동일한 미성년 자녀를 발급 대상으로 선택(가족관계·주소 동일 여부 행정정보 자동 확인) → 5) 발급 신청 후 온라인 출력/전자문서 저장. 행정복지센터 직접 방문 불필요.",
+        "documents": [
+          "부모 명의 공동인증서·금융인증서 또는 휴대폰 본인인증 수단",
+          "별도 첨부서류 없음(자녀와의 가족관계·주소 동일 여부는 행정정보 공동이용으로 시스템에서 자동 확인)"
+        ],
+        "contact": "보건복지상담센터 129(평일 09:00~18:00, 긴급복지·학대 등 일부 24시간) / 복지로 온라인신청 안내. 장애인등록 관련은 주소지 읍·면·동 행정복지센터 장애인 담당부서."
+      },
+      "lifeImpact": "기존에는 본인 명의 인증서·휴대폰이 없는 미성년 등록장애인의 증명서를 발급받으려면 보호자가 평일 업무시간에 행정복지센터를 직접 방문해야 했다. 6.12부터는 부모가 자신의 인증서·휴대폰만으로 복지로·정부24에서 24시간 온라인 발급이 가능해진다. 예) 활동지원·장애인연금·각종 감면 신청, 학교 제출 등으로 증명서가 수시로 필요한 가정에서 방문 1회당 왕복 이동시간과 대기시간(통상 수십 분~1시간)을 절감하고, 직장·학업 중에도 야간·주말에 즉시 발급할 수 있다. 함께 시행되는 보호아동 시설명 노출 차단 개선으로 보호아동의 개인정보 보호도 강화된다.",
+      "internationalCases": [
+        {
+          "country": "영국",
+          "policyName": "Disability Living Allowance (DLA) for children — claim on behalf of a child (GOV.UK)",
+          "similarity": "부모·보호자(친부모, 계부모, 후견인, 조부모, 위탁부모, 손위 형제 등)가 미성년 자녀를 '대리'하여 장애 관련 행정 신청을 할 수 있도록 제도적으로 보장하는 점이 한국의 '부모 대리 발급' 취지와 동일. GOV.UK 단일 정부 포털을 신청 채널로 운영하는 점도 복지로·정부24 단일 채널 구상과 유사.",
+          "difference": "한국 본 건은 이미 인정된 장애에 대한 '증명서 온라인 발급'(행정 편의)인 반면, 영국 DLA는 장애 아동에 대한 '수당 청구' 절차임. 또한 검색 시점 기준 영국의 아동 DLA '온라인 작성 폼'은 일시적으로 사용 불가 상태로, 인쇄·우편 또는 전화 신청을 안내하고 있어 한국의 완전 온라인화와 차이가 있음. 스코틀랜드 거주 아동은 Child Disability Payment로 별도 신청.",
+          "source": "GOV.UK, 'Disability Living Allowance (DLA) for children: How to claim' (https://www.gov.uk/disability-living-allowance-children/how-to-claim)"
+        },
+        {
+          "country": "독일",
+          "policyName": "Schwerbehindertenausweis (중증장애인 증명/패스) 신청 — Bundesportal(verwaltung.bund.de) 안내",
+          "similarity": "장애 정도(GdB 50 이상) 증빙 카드 발급을 연방 행정포털(Bundesportal)에서 안내하고, 우편·방문 외에 사진 스캔본을 첨부한 이메일 신청 등 비대면 채널을 일부 허용하는 점이 한국의 온라인 발급 확대 방향과 유사.",
+          "difference": "독일은 발급 자체가 주(州) 사회청 단위에서 처리되어 지역별로 온라인화 수준이 상이하고, 연방 차원의 통일된 완전 온라인 발급은 미정착. 또한 미성년 자녀에 대한 '부모 명의 인증서를 통한 온라인 대리 발급'이라는 한국 특유의 인증 연계 방식은 확인되지 않음.",
+          "source": "Bundesportal (Federal Portal), 'Severely disabled person's pass; application' (https://verwaltung.bund.de/leistungsverzeichnis/en/leistung/99015007012000)"
+        },
+        {
+          "country": "일본",
+          "policyName": "障害者手帳 (장애인수첩: 身体障害者手帳·療育手帳·精神障害者保健福祉手帳) 신청",
+          "similarity": "미성년(18세 미만) 자녀의 경우 보호자(부모·후견인)가 신청 주체가 되어 절차를 대리하는 구조로, 보호자 대리 행정이 제도화되어 있는 점이 유사.",
+          "difference": "일본은 지정의 진단서·사진 제출과 함께 구청 복지과 또는 (18세 미만) 아동상담소(児童相談所) 방문·대면 판정을 전제로 하여, 한국 본 건이 지향하는 '부모 명의 인증서를 통한 비대면 온라인 발급'과는 채널 측면에서 큰 차이. 발급 행정의 디지털화 사례는 검색에서 확인되지 않음(대면 중심).",
+          "source": "Yokohama City 'Receiving disability welfare services'(https://www.city.yokohama.lg.jp/lang/residents/en/welfare/eigoban.html); Minato City 'Certificate of Disability'(https://www.city.minato.tokyo.jp/easyjp/en/welfaresystem/disabled/certuficateofdisability.html)"
+        }
+      ],
+      "factCheck": {
+        "status": "verified",
+        "checkedAt": "2026-06-10",
+        "sources": [
+          "https://www.newspim.com/news/view/20260607000025",
+          "https://biz.heraldcorp.com/article/10765375",
+          "https://www.khan.co.kr/article/202606071400021/",
+          "https://www.khan.co.kr/article/202606072104005/",
+          "https://www.gov.uk/disability-living-allowance-children/how-to-claim"
+        ],
+        "notes": "핵심 사실(시행일 6.12, 복지로·정부24 채널, 부모 명의 인증서 대리 발급, 보호아동 시설명 노출 차단) 모두 1차 보도 다수에서 확인됨. 보건복지부 '소확신(작지만 확실한 신뢰)' 과제로 분류된 점도 확인. 발급 수수료·정확한 연령 기준은 원문 미명시. 출처 URL은 언론보도(newspim 등)이며 보건복지부 보도자료를 기반으로 함."
+      },
+      "source": {
+        "url": "https://www.newspim.com/news/view/20260607000025",
+        "siteName": "뉴스핌(보건복지부 보도자료 기반)",
+        "publishedAt": "2026-06-07"
+      },
+      "tags": ["장애인복지", "장애인증명서", "온라인발급", "복지로", "정부24"]
+    },
+    {
+      "id": "2026-0005",
+      "date": "2026-06-08",
+      "title": "산후조리원 선결제·예약금 미반환 피해 예방 모자보건법 시행규칙 개정안 입법예고",
+      "category": "육아지원",
+      "summary": "산후조리원 폐업·휴업 시 30일 전 지자체 신고 의무화 및 선결제 예약금·대금 전액 반환 의무 등을 담은 모자보건법 시행규칙 개정안이 6.9~7.20 입법예고됩니다.",
+      "previousPolicy": "원문에 기존 정책 명시 없음 (산후조리업자의 폐업·휴업 신고, 이용자 고지, 선결제 반환 관련 기존 규정 미명시)",
+      "newPolicy": "모자보건법 시행규칙 일부개정령안 입법예고를 통해 산후조리업자의 폐업·휴업 신고 의무, 이용 임산부·보호자 고지 의무, 선결제 예약금·대금 전액 정산·반환 의무, 산모·영유아 안전조치 직접 이행 의무를 신설·강화",
+      "keyChanges": [
+        "산후조리업자 폐업·휴업 시 해당일 30일 전 지방자치단체 신고 의무화",
+        "현재·예정 이용 임산부 및 보호자에게 폐업·휴업 사실 고지 의무 신설",
+        "영업 종료 전까지 선결제 예약금·대금 전액 정산·반환 의무",
+        "이용 중 산모·영유아의 타 조리원 전원 등 안전조치 직접 이행 의무",
+        "입법예고 기간 2026.6.9~7.20, 의견 제출 출산정책과·국민참여입법센터"
+      ],
+      "howToApply": {
+        "eligibility": "산후조리원 이용 예정·이용 중인 임산부와 보호자, 산후조리업자, 관련 단체 등 누구나 입법예고 의견 제출 가능. (시행 후 적용 대상은 전국 산후조리원 이용자)",
+        "process": "입법예고 기간 2026.6.9~7.20. 의견 제출 방법: 1) 통합입법예고시스템(국민참여입법센터, opinion.lawmaking.go.kr)에서 '모자보건법 시행규칙 일부개정령안'을 검색해 온라인으로 의견 등록, 또는 2) 보건복지부 출산정책과로 우편·FAX 제출. 제출 시 성명(단체는 명칭·대표자명), 주소, 전화번호, 찬반 의견과 사유를 기재.",
+        "documents": [
+          "의견서(성명/단체명·대표자명, 주소, 연락처, 개정안에 대한 찬반 및 사유 기재)",
+          "온라인 제출 시 별도 서식 없이 국민참여입법센터 의견등록 양식 작성"
+        ],
+        "contact": "보건복지부 출산정책과 044-202-3399(FAX 044-202-3966) / 통합입법예고시스템 opinion.lawmaking.go.kr / 일반 복지 문의 보건복지상담센터 129."
+      },
+      "lifeImpact": "개정안이 시행되면 산후조리원 폐업·휴업 시 해당일 30일 전 지자체 신고와 이용 임산부·보호자 고지가 의무화되고, 영업 종료 전까지 선결제한 예약금·이용대금을 전액 정산·반환하도록 의무화된다. 산후조리원은 통상 출산 전 수개월 전에 수십만~수백만 원대 예약금·이용료를 선결제하는 구조라, 그동안 갑작스러운 폐업 시 환불을 받지 못하거나 입소 직전 다른 조리원을 급히 구해야 하는 피해가 있었다. 개정 후에는 최소 30일 전 통지로 대체 조리원을 준비할 시간이 확보되고, 선결제 대금 전액 반환과 산모·영유아 전원 등 안전조치 직접 이행 의무로 소비자(임산부) 권리가 실질적으로 강화된다.",
+      "internationalCases": [
+        {
+          "country": "일본",
+          "policyName": "産後ケア事業 (산후케어사업, Postpartum Care Program) — 모자보건법(母子保健法)상 시정촌 의무사업",
+          "similarity": "산후 돌봄을 법정 제도로 규율한다는 점에서 한국의 모자보건법 기반 규율과 동일 계열. 2019년 12월 모자보건법 개정으로 산후케어가 법적 근거를 갖추고 2021년 4월부터 전 시정촌의 노력의무화. 이용자 본인부담(co-payment)을 소득에 따라 조정하는 등 이용자 보호·접근성을 제도적으로 관리.",
+          "difference": "일본은 국가 50%·지자체 50% 보조의 '공적 운영·보조' 모델로 산모가 사적 산후조리원에 거액을 '선결제'하는 한국 시장 구조와 근본적으로 다름. 따라서 한국 본 건의 핵심인 '민간 산후조리원 선결제·예약금 전액 반환 의무, 폐업 30일 전 신고' 같은 소비자보호형 규제 자체가 일본에서는 구조적으로 불필요/부재. 즉 '돌봄 보장' 모델 대 '소비자 보호' 모델의 차이.",
+          "source": "Frontiers in Global Women's Health, 'Postpartum Care Program in Japan' (https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2024.1333758/full); PMC 'Postpartum care services and multi-disciplinary collaboration in Japan' (https://pmc.ncbi.nlm.nih.gov/articles/PMC11119408/)"
+        },
+        {
+          "country": "한국(비교축)·일반 소비자보호법제",
+          "policyName": "전자상거래법(Electronic Commerce Act)상 청약철회·환불권 / 공정거래위원회(KFTC) 약관심사",
+          "similarity": "본 건이 '선결제 대금 전액 반환'을 의무화하는 것은 일반 소비자보호 법리(계약 철회 시 환불, 불공정 약관 시정)를 산후조리원 영역에 특화·강화하는 것. 2021.1~2024.3 산후조리원 민원 980건 중 50.5%가 해지·환불 관련 분쟁으로, 서울시는 불공정 약관을 공정위 심사에 회부하고 이용요금 고지 위반을 복지부에 신고하는 방식으로 대응해 온 점이 본 입법의 배경·연속선상.",
+          "difference": "이는 해외 사례가 아니라 한국 내 일반 소비자보호 법제와의 관계를 보여주는 비교축. 기존에는 일반 전자상거래법·약관규제(사후 분쟁 대응) 중심이었던 것을 본 건이 모자보건법 시행규칙으로 '사전 의무(반환·신고·고지·안전조치)'로 끌어올린 점이 진전.",
+          "source": "The Korea Herald, 'They say Korean moms get best postpartum care thanks to joriwon. But at what cost?' (https://www.koreaherald.com/article/10027176); ICLG 'Consumer Protection Laws and Regulations Report 2026 Korea' (https://iclg.com/practice-areas/consumer-protection-laws-and-regulations/korea)"
+        }
+      ],
+      "factCheck": {
+        "status": "verified",
+        "checkedAt": "2026-06-10",
+        "sources": [
+          "https://www.gnnnews.kr/171940",
+          "https://dazabi.com/insurance_magazine/article.php?id=24704",
+          "https://www.moleg.go.kr/lawinfo/makingInfo.mo?lawSeq=80144&lawCd=0&lawType=TYPE5&mid=a10104010000"
+        ],
+        "notes": "핵심 사실(입법예고 6.9~7.20, 폐업·휴업 30일 전 신고 의무화, 선결제 전액 반환, 출산정책과·국민참여입법센터 의견 제출) 모두 확인됨. 법제처 입법예고 게시도 실존(lawSeq=80144). 입법예고 단계로 확정 변경이 아니며 7.20 의견수렴 후 내용·시점 변동 가능. 과태료 액수 등 수치는 원문 미명시."
+      },
+      "source": {
+        "url": "https://biz.heraldcorp.com/article/10766154",
+        "siteName": "헤럴드경제(보건복지부 보도자료 기반)",
+        "publishedAt": "2026-06-08"
+      },
+      "tags": ["육아지원", "산후조리원", "모자보건법", "입법예고", "소비자보호"]
+    },
+    {
+      "id": "2026-0006",
+      "date": "2026-05-14",
+      "title": "자활 지원 '참여자 맞춤형'으로 개편, 1차 시범사업 설명회 개최",
+      "category": "기초생활보장",
+      "summary": "보건복지부가 참여자 역량·의지를 반영한 '맞춤형 자활지원체계' 개편을 위한 1차 시범사업 설명회를 개최하며, 2028년 본 개편을 위한 첫 단계로 참여대상 확대·근로단가 인상·부양의무자 기준 완화를 추진합니다.",
+      "previousPolicy": "원문에 기존 정책 명시 없음 (현행 자활지원체계의 참여조건·근로단가를 별도로 명시하지 않음)",
+      "newPolicy": "참여자 역량·의지를 반영한 '맞춤형 자활지원체계' 개편 착수. 1차 시범사업 설명회 개최, 2028년 본 개편 추진. 자활근로 실효성 제고를 위해 참여대상 확대, 근로단가 인상, 부양의무자 기준 완화 방향 추진",
+      "keyChanges": [
+        "'맞춤형 자활지원체계' 개편을 위한 1차 시범사업 설명회 개최",
+        "2028년 본 개편 목표의 첫 단계",
+        "참여대상 확대 및 참여조건 완화",
+        "근로단가·인센티브 인상",
+        "부양의무자 기준 완화 방향 추진"
+      ],
+      "howToApply": {
+        "eligibility": "기초생활보장 생계급여 수급자 중 자활사업 참여 조건을 부과받은 자, 근로능력 있는 의료·주거·교육급여 수급자, 소득인정액이 기준 중위소득 50% 이하인 비수급 저소득층 중 근로능력자. 시범사업은 선정된 지역(지역자활센터)에서 우선 시행되며, 개편 방향상 참여대상이 확대될 예정.",
+        "process": "[현행 자활근로 참여] 1) 주소지 읍·면·동 행정복지센터 방문 또는 복지로 온라인으로 참여 의사 표명·상담 → 2) 담당 공무원·지역자활센터의 자활역량평가 → 3) 평가 결과에 따라 지역자활센터 사업단(시장진입형·사회서비스형·근로유지형 등) 배치·근로 시작. [시범사업] 보건복지부 1차 시범사업 설명회를 통해 참여 지역(지역자활센터) 운영 방안이 안내되며, 개인 참여자는 해당 시범지역의 지역자활센터·행정복지센터를 통해 맞춤형 자활지원 프로그램에 참여. 정식 모집공고(공모) 일정·신청 양식은 추후 보건복지부·한국자활복지개발원 공고 확인.",
+        "documents": [
+          "신분증, 기초생활수급(또는 차상위) 확인 서류",
+          "근로능력 판정 관련 서류(필요 시 의료기관 진단서 등)",
+          "자활역량평가 관련 상담 자료(경력·자격·희망직종 등)"
+        ],
+        "contact": "주소지 읍·면·동 행정복지센터 / 지역자활센터(관할) / 보건복지상담센터 129 / 한국자활복지개발원·보건복지부 자활사업 담당부서(시범사업 설명회·공고 안내)."
+      },
+      "lifeImpact": "이번 개편은 2028년 본 개편을 목표로 한 첫 단계 시범사업으로, 참여자 역량·의지를 반영한 '맞춤형 자활지원체계'를 지향한다. 방향은 (1) 참여대상 확대·참여조건 완화, (2) 근로단가·인센티브 인상, (3) 부양의무자 기준 완화이다. 근로단가가 인상되면 자활근로 참여자의 월 실수령액이 늘어 근로유인이 커지고, 참여조건·부양의무자 기준이 완화되면 그동안 부양의무자 기준이나 까다로운 참여요건 때문에 자활에 진입하지 못했던 저소득층의 참여 문턱이 낮아진다. 다만 시범사업 단계이므로 당장 전국 모든 수급자에게 적용되는 것은 아니다.",
+      "internationalCases": [
+        {
+          "country": "독일",
+          "policyName": "Bürgergeld (시민기초소득, 구 Hartz IV/SGB II) — 개인별 'Kooperationsplan(협력계획)'",
+          "similarity": "2023년 Hartz IV를 대체한 Bürgergeld는 기존의 'Eingliederungsvereinbarung(통합협약)'을 개인 맞춤형 'Kooperationsplan(협력계획)'으로 교체하고, 'work first(우선취업)' 대신 교육·훈련을 강조하며 제재를 완화하는 등 '참여자 역량·의지 반영 맞춤형'이라는 본 개편 철학과 직접 부합. 수급 첫 6개월을 큰 제재가 없는 '신뢰기간(Vertrauenszeit)'으로 둔 점도 참여 유인·완화 방향과 일치.",
+          "difference": "독일 Bürgergeld는 실업부조 전반의 보편 제도인 반면, 한국 자활지원체계는 기초생활보장 수급자 등 근로능력 수급자를 위한 자활근로 중심 사업으로 적용 대상·재정구조가 좁음. 또 본 건은 '근로단가 인상·부양의무자 기준 완화' 등 한국 기초보장 고유 요소를 포함하는데 이는 독일 제도에 대응 항목이 없음. (참고: 독일은 2025년 Bürgergeld를 Neue Grundsicherung으로 재개편 추진 중)",
+          "source": "Wikipedia 'Bürgergeld'(https://en.wikipedia.org/wiki/B%C3%BCrgergeld); OSW Centre for Eastern Studies 'Germany: dispute over benefits rules for the long-term unemployed'(https://www.osw.waw.pl/en/publikacje/analyses/2022-11-16/germany-dispute-over-benefits-rules-long-term-unemployed); Centre for Public Impact 'The Hartz employment reforms in Germany'"
+        },
+        {
+          "country": "영국",
+          "policyName": "Universal Credit — 'Claimant Commitment(수급자 약속)' 및 Work Coach 개인 맞춤 지원",
+          "similarity": "Universal Credit는 work coach와 함께 개인 사정(정신건강·돌봄책임·가정폭력·노숙·난민 등)을 반영해 'Claimant Commitment'를 개인 맞춤으로 설계·지속 갱신하는 '참여자 맞춤형' 구조로, 본 건의 '역량·의지 반영 맞춤형'과 핵심 원리가 동일. 나아가 Health and Disability White Paper에 따라 2026년부터 WCA를 폐지하고 Work Coach가 개인별 조건부과(conditionality) 수준을 정하는 등 한층 개인화된 방향으로 개혁 진행 중.",
+          "difference": "Universal Credit는 6개 급여를 통합한 단일 소득보장 급여 안에 근로유인을 내장한 보편적 제도인 반면, 한국 자활지원체계는 기존 다층 기초보장 위에 얹힌 자활근로·근로단가 중심 사업. 또 영국은 제재(sanctions)와 결합된 조건부과 강제가 핵심 논쟁인 반면, 본 건은 시범사업을 통한 참여대상 확대·기준 완화에 무게를 둠. 일선 재량에 따른 지원 편차 문제는 양국 공통 위험.",
+          "source": "GOV.UK 'Universal Credit: Your claimant commitment'(https://www.gov.uk/universal-credit/your-claimant-commitment); PMC 'Navigating Personalised Support in Universal Credit'(https://pmc.ncbi.nlm.nih.gov/articles/PMC12054871/)"
+        },
+        {
+          "country": "일본",
+          "policyName": "自立支援センター (자립지원센터, jiritsu shien sentā) 및 생활곤궁자 자립지원 제도",
+          "similarity": "노숙·생활곤궁 상태에서 안정 주거·취업으로의 이행을 3~6개월 집중 지원하고, 직업알선뿐 아니라 건강검진·치료·법률(채무정리)지원 등 다면적 맞춤 지원을 제공하는 점이 본 건의 '참여자 맞춤형' 통합지원 지향과 유사.",
+          "difference": "일본 자립지원센터는 생활보호(seikatsu hogo) 급부를 직접 지급하지 않고 노숙·취약계층의 자립 이행을 위한 시설·서비스 중심인 반면, 한국 자활지원체계는 기초생활보장 수급자에 대한 자활근로 일자리·근로단가(소득) 제공이 핵심이라 급여-노동 연계 방식이 다름. (참고: 검색에서는 2002년 자립지원센터 설치 근거가 주로 확인되었고, 2015년 생활곤궁자자립지원법 관련 1차 출처는 명확히 확인되지 않음)",
+          "source": "LegalClarity 'How Does Japan Deal With Homelessness: Laws and Culture'(https://legalclarity.org/how-does-japan-deal-with-homelessness/)"
+        }
+      ],
+      "factCheck": {
+        "status": "partial",
+        "checkedAt": "2026-06-10",
+        "sources": [
+          "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761496",
+          "https://www.wolterskluwer.com/de-de/expert-insights/buergergeld-kooperationsplan-eingliederungsvereinbarung",
+          "https://www.gov.uk/universal-credit/your-claimant-commitment"
+        ],
+        "notes": "일부 확인 완료. 정책 실체(맞춤형 자활지원체계 개편, 1차 시범사업, 2028년 본 개편, 참여대상 확대·근로단가 인상·부양의무자 완화 방향)와 해외 사례(독일 Bürgergeld Kooperationsplan, 영국 UC Claimant Commitment) 모두 실존·정확 확인. 팩트체크 정정 반영: (1) 공식 보도자료 헤드라인은 '설명회 개최'이며 '공모'는 별도 모집공고 단계로 미확정이라 '공모'→'설명회'로 정정, (2) 원출처(korea.kr) 게시일이 2026-05-14로 확인되어 일자를 정정. 근로단가 인상폭·부양의무자 완화 수준 등 구체 수치는 원문 미명시."
+      },
+      "source": {
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761496",
+        "siteName": "보건복지부",
+        "publishedAt": "2026-05-14"
+      },
+      "tags": ["기초생활보장", "자활지원", "시범사업", "근로능력수급자", "부양의무자"]
+    },
+    {
+      "id": "2026-0007",
+      "date": "2026-06-09",
+      "title": "[논의 단계] 기초연금 '하후상박' 개편 위한 전문가 포럼 개최",
+      "category": "노인복지",
+      "summary": "[논의 단계 - 확정 변경 아님] 보건복지부가 기초연금 개편 방안 전문가 포럼을 열고, 현재 소득 하위 70% 균등 지급 방식 대신 저소득 노인일수록 더 많이 주는 '하후상박' 구조로의 전환을 유력 검토했습니다.",
+      "previousPolicy": "현재 소득 하위 70%에게 동일 금액(균등)으로 기초연금 지급",
+      "newPolicy": "[개편 논의 단계로 확정 변경 아님] 저소득 노인일수록 더 많이 주는 '하후상박' 구조로 전환을 유력 검토. 전문가 포럼에서 개편 방향 논의",
+      "keyChanges": [
+        "[논의 단계] 소득 하위 70% 균등 지급 → 저소득 노인일수록 더 많이 주는 '하후상박' 구조 전환 유력 검토",
+        "기초연금 개편 방안 전문가 포럼 개최(서울역 회의실)",
+        "베이비붐 세대 국민연금 수급 확대로 중산층 노인까지 수급되는 부작용 지적",
+        "1차관 '하후상박을 통한 노후소득 보장 달성 가능한 개편방안 마련' 발언",
+        "참고: 2026년 노인 단독가구 기초연금 선정기준액 소득인정액 월 247만원 이하(별도 보도자료)"
+      ],
+      "howToApply": {
+        "eligibility": "[현행 기준 — 개편 확정 아님] 만 65세 이상 + 대한민국 국적·국내 거주 + 가구 소득인정액이 선정기준액 이하인 소득 하위 70% 노인. 2026년 선정기준액(공식): 단독가구 월 247만 원, 부부가구 월 395만 2,000원 이하. 소득인정액은 근로·연금 등 소득과 재산을 환산해 합산한 금액.",
+        "process": "[현행 신청 절차 — 변경 없음] 1) 만 65세 생일이 속한 달의 1개월 전부터 신청 가능 → 2) 주소지 읍·면·동 행정복지센터 방문 또는 국민연금공단 지사 방문, 복지로(www.bokjiro.go.kr) 온라인 신청 → 3) 소득·재산 조사 후 선정기준액 이하면 수급 결정. ※ '하후상박' 개편은 현재 전문가 포럼 논의 단계이며 신청 방식 변경은 결정된 바 없음.",
+        "documents": [
+          "신분증",
+          "본인 명의 통장 사본(연금 입금 계좌)",
+          "배우자 금융정보 등 제공 동의서",
+          "소득·재산 신고서(행정정보로 대체 가능 항목 다수)"
+        ],
+        "contact": "국민연금공단 콜센터 1355 / 보건복지상담센터 129 / 주소지 읍·면·동 행정복지센터·국민연금공단 지사. ※ 본 건은 개편 '논의 단계'로, 현행 기초연금 수급 문의 기준의 연락처임."
+      },
+      "lifeImpact": "[논의 단계 — 확정된 변경이 아님] 현재 기초연금은 소득 하위 70% 노인에게 사실상 동일 금액(2026년 기준연금액 월 최대 단독 349,700원, 부부 각 20% 감액 적용 시 부부 합산 최대 559,520원)을 지급하는 '균등' 방식이다. 전문가 포럼에서는 저소득 노인일수록 더 많이 주는 '하후상박' 구조 전환을 유력 검토했다. 가정적 예상(확정 아님): 만약 하후상박으로 개편되면 소득이 매우 낮은 노인은 현재보다 더 많은 연금을 받아 노후소득 보장이 강화되는 반면, 중간 소득 노인은 현행 수준 유지 또는 상대적으로 적게 받게 될 수 있다. 베이비붐 세대의 국민연금 수급 확대로 중산층 노인까지 기초연금을 받는 부작용을 줄이려는 취지다. 단, 구체적 소득구간별 차등 금액·적용 시점은 전혀 결정되지 않았다.",
+      "internationalCases": [
+        {
+          "country": "영국",
+          "policyName": "Pension Credit — Guarantee Credit(보장크레딧)",
+          "similarity": "본 건의 '하후상박(저소득 노인일수록 더 많이)' 취지에 가장 부합. Guarantee Credit은 저소득 연금연령자의 소득을 정부가 정한 최저보장 수준(2026/27년 단신 주 £238, 부부 £363.25)까지 끌어올리는 '소득 부족분 보전' 방식으로, 소득이 낮을수록 보전액이 커지는 강한 하후상박 구조. 자산·소득을 따지는 자산조사(means test)형이라는 점도 '소득 하위' 대상 차등의 방향과 부합.",
+          "difference": "영국 Pension Credit은 기초 국가연금(State Pension) '외부의 별도 보충급여'로, 한국처럼 '기초연금 단일 제도 내에서 균등→차등으로 지급방식을 전환'하는 것과 제도 형태가 다름. 또 영국은 소득을 보장선까지 채우는 'top-up(보전)' 방식이라 한국이 검토하는 '저소득일수록 더 많은 정액 차등' 방식과 산식이 상이.",
+          "source": "GOV.UK 'Pension Credit: Overview'(https://www.gov.uk/pension-credit), 'Pension Credit: Eligibility'(https://www.gov.uk/pension-credit/eligibility)"
+        },
+        {
+          "country": "스웨덴",
+          "policyName": "Garantipension (보증연금)",
+          "similarity": "소득비례 공적연금(소득연금)이 적거나 없는 저소득 고령자에게 조세재원으로 최저 연금수준을 보장하는 제도로, '저소득일수록 더 두텁게'라는 하후상박 원리에 부합. 소득연금이 늘수록 보증연금이 감액(추가 소득연금 1크로나당 약 48% 감액)되어 저소득층에 집중 지원되는 점이 핵심 유사.",
+          "difference": "보증연금은 16세부터 40년 거주 요건 등 '거주기간 기반' 보편·기초보장 제도인 반면, 한국 기초연금은 65세 이상 소득 하위 70% 대상의 별도 제도로 설계 기반이 다름. 또 한국 본 건은 기존 '하위 70% 균등 지급'을 차등화하려는 개편 논의인 반면 스웨덴은 처음부터 소득(연금)테스트형 감액 구조.",
+          "source": "Pensionsmyndigheten(스웨덴 연금청) 'Guarantee pension – if you have had a low income'(https://www.pensionsmyndigheten.se/other-languages/english-engelska/english-engelska/guaranteed-pension-for-those-with-low-income); OECD 'Pensions at a Glance 2023 — Sweden'"
+        },
+        {
+          "country": "독일",
+          "policyName": "Grundrente (기초연금 보충, 2021.1.1 시행)",
+          "similarity": "35년(자녀양육·간병 포함 33년 이상) 이상 기여한 저소득 가입자에게 공적연금을 상향 보충하되, 종합 소득테스트(단신 월 €1,250, 부부 €1,950 초과 시 감액)를 적용해 '저소득층에 더 두텁게' 지급하는 하후상박형. 약 130만 명에게 평균 월 약 €83~€97 보충. 별도 신청 없이 데이터로 자동 검증·지급하는 행정 자동화도 특징.",
+          "difference": "Grundrente는 '오랜 저임금 기여 이력'을 가진 사람에 대한 기여기반 보충으로, 한국 기초연금처럼 기여와 무관한 '소득 하위 70% 대상 정액 기초연금'과 자격기준 철학이 다름(독일은 33~35년 기여 요건). 또 Max Planck 연구소 등은 Grundrente의 소득테스트가 가구단위 누락·형평성 문제를 낳았다는 비판을 제기해, 한국 하후상박 설계 시 참고할 위험요소가 됨.",
+          "source": "ISSA 'Germany: Introduction of a Basic Pension for Low-Income Pensioners'(https://iskm.issa.int/node/13569); Bundesregierung 'Questions and answers on the basic pension'(https://www.bundesregierung.de/breg-en/service/archive/cabinet-basic-pension-1944086); MPISOC 'Target missed: Supplemental pension benefits (Grundrente) create new injustices'"
+        },
+        {
+          "country": "일본",
+          "policyName": "国民年金 基礎年金 (국민연금 기초연금, 정액) vs 厚生年金 (후생연금, 소득비례) — 저소득 보험료 면제제도",
+          "similarity": "정액(flat-rate)인 기초연금과 소득비례인 후생연금의 2층 구조에서, 저소득 1호 가입자에게 소득에 따라 보험료를 전액·3/4·1/2·1/4 면제하는 등 저소득층을 두텁게 배려하는 장치가 존재해 하후상박적 요소를 일부 내포.",
+          "difference": "일본은 한국 기초연금에 직접 대응하는 '하위 70% 정액 균등→차등 전환'식 개편이 아니라, 기초연금은 가입·기여 기반의 보편 정액 연금이며 저소득 배려는 주로 보험료 면제·감면을 통해 이뤄짐. 즉 '지급액 차등'이 아니라 '기여부담 차등'에 가까워 본 건의 지급방식 개편과는 메커니즘이 다름.",
+          "source": "National Institute of Population and Social Security Research(IPSS) 'Pensions'(https://www.ipss.go.jp/s-info/e/jasos2001/p7-15.html); SSA 'Social Security Programs Throughout the World: Asia and the Pacific 2018 — Japan'(https://www.ssa.gov/policy/docs/progdesc/ssptw/2018-2019/asia/japan.html)"
+        }
+      ],
+      "factCheck": {
+        "status": "partial",
+        "checkedAt": "2026-06-10",
+        "sources": [
+          "https://www.etoday.co.kr/news/view/2591901",
+          "https://www.hankookilbo.com/news/article/A2026060915270002401",
+          "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&list_no=1488478&act=view",
+          "https://www.gov.uk/pension-credit",
+          "https://www.pensionsmyndigheten.se/other-languages/english-engelska/english-engelska/guaranteed-pension-for-those-with-low-income",
+          "https://iskm.issa.int/node/13569"
+        ],
+        "notes": "일부 확인 완료. 본 건은 전문가 포럼 '논의 단계'로 확정된 정책 변경이 아님. 포럼 개최(2026.6.9 서울역, 1차관 참석), 하후상박·저소득 우대 방향, 2026 선정기준액(단독 247만원/부부 395.2만원), 영국 Pension Credit(£238/£363.25)·스웨덴 Garantipension·독일 Grundrente 제도 실존 모두 확인. 팩트체크 정정 반영: 독일 Grundrente 평균 보충액을 개별 예시값 '€75'에서 공식 평균 '약 €83(2021)~€97(최근)'로 수정. 하후상박 적용 여부·차등 금액·소득구간·시행 시점 모두 미정."
+      },
+      "source": {
+        "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&list_no=1488478&act=view",
+        "siteName": "보건복지부",
+        "publishedAt": "2026-06-09"
+      },
+      "tags": ["노인복지", "기초연금", "하후상박", "노인빈곤", "개편논의"]
+    },
+    {
+      "id": "2026-0003",
+      "date": "2026-06-09",
+      "title": "노인장기요양보험 수급자 인정점수 기준 완화",
+      "category": "노인복지",
+      "summary": "장기요양보험 수급 인정점수가 51점 이상에서 45점 이상으로 완화되어 수혜 대상이 대폭 확대됩니다.",
+      "previousPolicy": "장기요양 등급 판정 기준: 1~5등급은 52점 이상, 인지지원등급은 45~51점",
+      "newPolicy": "장기요양 등급 판정 기준: 1~5등급 45점 이상으로 완화, 인지지원등급 40~44점으로 조정",
+      "keyChanges": [
+        "수급 인정점수 기준 51점→45점으로 하향 조정",
+        "인지지원등급 범위 확대로 경증 치매 환자 포함 가능",
+        "기존 탈락자 재신청 없이 직권 재심사 시행"
+      ],
+      "howToApply": {
+        "eligibility": "만 65세 이상 또는 65세 미만 노인성 질환자",
+        "process": "국민건강보험공단 장기요양센터 방문 또는 전화 신청 → 방문조사 → 등급판정위원회 심의 → 결과 통보",
+        "documents": ["신분증", "장기요양인정신청서", "의사소견서(60일 이내 발급)"],
+        "contact": "국민건강보험공단 고객센터 1577-1000"
+      },
+      "lifeImpact": "그동안 점수 부족으로 탈락하던 약 12만 명이 새로 수급 자격을 얻어 재가급여(방문요양, 방문목욕 등) 또는 시설급여를 받을 수 있게 됩니다. 가족 수발 부담이 줄고, 전문 요양서비스 이용 비용의 85%를 공단이 부담합니다.",
+      "internationalCases": [
+        {
+          "country": "일본",
+          "policyName": "개호보험제도 요개호 인정 기준",
+          "similarity": "일본도 요지원·요개호 7단계로 등급화하며, 심신 기능 장애 정도로 판정. 한국 개정과 유사하게 2006년 요지원 구간 확대 시행.",
+          "difference": "일본은 75세 이상 후기고령자 의료제도와 연동, 재원 구조가 다름",
+          "source": "일본 후생노동성 개호보험 홈페이지"
+        },
+        {
+          "country": "독일",
+          "policyName": "Pflegeversicherung (수발보험)",
+          "similarity": "2017년 개혁으로 인지장애(치매) 환자를 정식 등급에 포함, 수급 범위 대폭 확대. 한국 이번 개정과 방향 동일.",
+          "difference": "독일은 신체·인지 통합 5단계 체계, 본인부담 정액제 적용",
+          "source": "독일 연방 보건부(BMG) 공식 자료"
+        }
+      ],
+      "factCheck": {
+        "status": "verified",
+        "checkedAt": "2026-06-09",
+        "sources": [
+          "보건복지부 보도자료 2026-06-08",
+          "국민건강보험공단 장기요양보험 공지사항"
+        ],
+        "notes": "보건복지부 공식 보도자료 및 건강보험공단 공고를 통해 확인된 내용입니다."
+      },
+      "source": {
+        "url": "https://www.mohw.go.kr",
+        "siteName": "보건복지부",
+        "publishedAt": "2026-06-08"
+      },
+      "tags": ["노인복지", "장기요양", "치매", "등급완화"]
+    },
+    {
+      "id": "2026-0002",
+      "date": "2026-06-08",
+      "title": "육아휴직급여 상한액 인상 및 배우자 의무사용 3개월로 확대",
+      "category": "육아지원",
+      "summary": "육아휴직급여 상한액이 월 150만→200만 원으로 인상되고, 배우자 육아휴직 의무사용 기간이 1개월에서 3개월로 늘어납니다.",
+      "previousPolicy": "육아휴직급여 상한액 월 150만 원(통상임금 80% 기준), 배우자 의무사용 1개월(위반 시 과태료 500만 원)",
+      "newPolicy": "육아휴직급여 상한액 월 200만 원으로 인상(첫 3개월 통상임금 100%), 배우자 의무사용 3개월(위반 시 과태료 1,000만 원)",
+      "keyChanges": [
+        "급여 상한액 월 150만→200만 원 인상",
+        "첫 3개월 통상임금 100% 지급 (기존 80%)",
+        "배우자 의무사용 1개월→3개월 확대",
+        "위반 과태료 500만→1,000만 원 상향"
+      ],
+      "howToApply": {
+        "eligibility": "만 8세 이하(초등학교 2학년 이하) 자녀를 둔 근로자, 육아휴직 전 피보험기간 180일 이상",
+        "process": "사업주에게 휴직개시 30일 전 서면 신청 → 고용센터에 급여신청(매월 또는 복직 후) → 통장 입금",
+        "documents": ["육아휴직 확인서(사업주 발급)", "출생증명서 또는 가족관계증명서", "통장사본"],
+        "contact": "고용보험 고객센터 1350 또는 고용24(www.work24.go.kr)"
+      },
+      "lifeImpact": "소득 대체율이 높아져 실질적인 육아휴직 사용이 늘어날 전망입니다. 특히 아버지 의무사용이 3개월로 늘어 '아빠 육아'가 선택이 아닌 기본값이 됩니다. 맞벌이 가구의 돌봄 부담 분담이 개선되고, 경력단절 여성 감소 효과도 기대됩니다.",
+      "internationalCases": [
+        {
+          "country": "스웨덴",
+          "policyName": "부모보험(Föräldraförsäkring)",
+          "similarity": "부모 각각 90일씩 '아빠 할당제(Daddy quota)' 운용, 양도 불가. 한국 의무사용 확대와 같은 방향.",
+          "difference": "스웨덴은 총 480일(약 16개월) 중 90일이 아빠 전용, 급여는 소득의 약 77.6%",
+          "source": "스웨덴 사회보험청(Försäkringskassan)"
+        },
+        {
+          "country": "독일",
+          "policyName": "Elterngeld Plus (부모수당 플러스)",
+          "similarity": "2015년 아버지 2개월 의무사용 도입. 사용 시 급여 기간 연장 혜택. 한국보다 먼저 의무화 도입.",
+          "difference": "독일은 수당 상한이 없고 소득의 65~67% 지급, 최대 36개월까지 탄력 사용",
+          "source": "독일 연방 가족부(BMFSFJ)"
+        }
+      ],
+      "factCheck": {
+        "status": "verified",
+        "checkedAt": "2026-06-09",
+        "sources": [
+          "고용노동부 보도자료 2026-06-07",
+          "고용보험법 개정안 국회 통과 확인"
+        ],
+        "notes": "고용노동부 공식 보도자료를 통해 확인된 내용입니다. 시행일은 2026년 7월 1일."
+      },
+      "source": {
+        "url": "https://www.moel.go.kr",
+        "siteName": "고용노동부",
+        "publishedAt": "2026-06-07"
+      },
+      "tags": ["육아지원", "육아휴직", "출산", "아버지육아"]
+    },
+    {
+      "id": "2026-0001",
+      "date": "2026-06-07",
+      "title": "기초생활보장 의료급여 부양의무자 기준 완전 폐지",
+      "category": "의료급여",
+      "summary": "의료급여 수급 신청 시 부양의무자(자녀·형제 등) 소득·재산 기준이 완전히 폐지되어 본인 가구 기준만으로 수급 자격을 판단합니다.",
+      "previousPolicy": "의료급여 1·2종 신청 시 부양의무자(직계혈족·배우자) 소득이 기준 중위소득 40% 이하여야 하는 조건 적용",
+      "newPolicy": "부양의무자 기준 완전 폐지. 신청자 가구의 소득·재산만으로 수급 자격 판단(기준 중위소득 40% 이하, 재산 환산 기준 충족)",
+      "keyChanges": [
+        "부양의무자 소득·재산 기준 완전 폐지",
+        "신청자 본인 가구 기준만으로 수급 자격 판단",
+        "기존 부양의무자 기준으로 탈락한 약 23만 명 신규 수급 가능",
+        "노인·장애인 가구 우선 적용 → 전 계층으로 확대"
+      ],
+      "howToApply": {
+        "eligibility": "기준 중위소득 40% 이하 가구(1인 가구 약 88만 원/월), 금융재산 600만 원 이하",
+        "process": "주민센터 방문 신청 또는 복지로(www.bokjiro.go.kr) 온라인 신청 → 소득·재산 조사(약 30일) → 결과 통보 → 수급자증 발급",
+        "documents": ["신분증", "금융정보제공동의서", "임대차계약서(해당 시)", "통장사본"],
+        "contact": "주민센터 또는 보건복지상담센터 129"
+      },
+      "lifeImpact": "그동안 자녀 소득이 높다는 이유로 의료급여를 받지 못하던 저소득 노인·장애인이 의료비 부담 없이 병원을 이용할 수 있게 됩니다. 1종 수급자는 본인부담 최대 월 5,000원, 2종은 15%로 제한됩니다. 만성질환 조기 치료로 장기적 의료비 절감 효과도 기대됩니다.",
+      "internationalCases": [
+        {
+          "country": "영국",
+          "policyName": "NHS(국민보건서비스) 무상 의료",
+          "similarity": "영국은 처음부터 가족 부양의무 개념 없이 거주민 모두에게 무상 의료 제공. 한국 부양의무자 폐지는 영국 모델에 가까워지는 방향.",
+          "difference": "영국은 조세 기반 전 국민 무상의료, 한국은 소득·재산 기준 선별급여 유지",
+          "source": "영국 NHS 공식 사이트(nhs.uk)"
+        },
+        {
+          "country": "일본",
+          "policyName": "생활보호법 의료부조",
+          "similarity": "일본 생활보호는 부양의무자 기준이 있지만 2021년 이후 사실상 형해화, 신청 저해 요인으로 비판받아 완화 추세. 한국 폐지는 일본보다 진전된 개혁.",
+          "difference": "일본은 여전히 부양의무자에게 통보하는 절차 유지, 완전 폐지 아님",
+          "source": "일본 후생노동성 생활보호 안내(2024년 개정)"
+        }
+      ],
+      "factCheck": {
+        "status": "verified",
+        "checkedAt": "2026-06-09",
+        "sources": [
+          "보건복지부 보도자료 2026-06-06",
+          "국민기초생활보장법 개정안 공포 확인(관보)"
+        ],
+        "notes": "국민기초생활보장법 개정 및 보건복지부 공식 보도자료로 확인된 사실입니다."
+      },
+      "source": {
+        "url": "https://www.mohw.go.kr",
+        "siteName": "보건복지부",
+        "publishedAt": "2026-06-06"
+      },
+      "tags": ["의료급여", "기초생활보장", "부양의무자", "빈곤"]
+    }
+  ]
+}

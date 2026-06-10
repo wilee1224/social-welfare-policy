@@ -1,0 +1,133 @@
+{
+  "analyzed_at": "2026-06-10 11:20",
+  "items": [
+    {
+      "temp_id": "TEMP-004",
+      "internationalCases": [
+        {
+          "country": "영국",
+          "policyName": "Disability Living Allowance (DLA) for children — claim on behalf of a child (GOV.UK)",
+          "similarity": "부모·보호자(친부모, 계부모, 후견인, 조부모, 위탁부모, 손위 형제 등)가 미성년 자녀를 '대리'하여 장애 관련 행정 신청을 할 수 있도록 제도적으로 보장하는 점이 한국의 '부모 대리 발급' 취지와 동일. GOV.UK 단일 정부 포털을 신청 채널로 운영하는 점도 복지로·정부24 단일 채널 구상과 유사.",
+          "difference": "한국 TEMP-004는 이미 인정된 장애에 대한 '증명서 온라인 발급'(행정 편의)인 반면, 영국 DLA는 장애 아동에 대한 '수당 청구' 절차임. 또한 검색 시점 기준 영국의 아동 DLA '온라인 작성 폼'은 일시적으로 사용 불가 상태로, 인쇄·우편 또는 전화 신청을 안내하고 있어 한국의 완전 온라인화와 차이가 있음. 스코틀랜드 거주 아동은 Child Disability Payment로 별도 신청.",
+          "source": "GOV.UK, 'Disability Living Allowance (DLA) for children: How to claim' (https://www.gov.uk/disability-living-allowance-children/how-to-claim)"
+        },
+        {
+          "country": "독일",
+          "policyName": "Schwerbehindertenausweis (중증장애인 증명/패스) 신청 — Bundesportal(verwaltung.bund.de) 안내",
+          "similarity": "장애 정도(GdB 50 이상) 증빙 카드 발급을 연방 행정포털(Bundesportal)에서 안내하고, 우편·방문 외에 사진 스캔본을 첨부한 이메일 신청 등 비대면 채널을 일부 허용하는 점이 한국의 온라인 발급 확대 방향과 유사.",
+          "difference": "독일은 발급 자체가 주(州) 사회청 단위에서 처리되어 지역별로 온라인화 수준이 상이하고, 연방 차원의 통일된 완전 온라인 발급은 미정착. 또한 미성년 자녀에 대한 '부모 명의 인증서를 통한 온라인 대리 발급'이라는 한국 특유의 인증 연계 방식은 확인되지 않음.",
+          "source": "Bundesportal (Federal Portal), 'Severely disabled person's pass; application' (https://verwaltung.bund.de/leistungsverzeichnis/en/leistung/99015007012000)"
+        },
+        {
+          "country": "일본",
+          "policyName": "障害者手帳 (장애인수첩: 身体障害者手帳·療育手帳·精神障害者保健福祉手帳) 신청",
+          "similarity": "미성년(18세 미만) 자녀의 경우 보호자(부모·후견인)가 신청 주체가 되어 절차를 대리하는 구조로, 보호자 대리 행정이 제도화되어 있는 점이 유사.",
+          "difference": "일본은 지정의 진단서·사진 제출과 함께 구청 복지과 또는 (18세 미만) 아동상담소(児童相談所) 방문·대면 판정을 전제로 하여, 한국 TEMP-004가 지향하는 '부모 명의 인증서를 통한 비대면 온라인 발급'과는 채널 측면에서 큰 차이. 발급 행정의 디지털화 사례는 검색에서 확인되지 않음(대면 중심).",
+          "source": "Yokohama City 'Receiving disability welfare services'(https://www.city.yokohama.lg.jp/lang/residents/en/welfare/eigoban.html); Minato City 'Certificate of Disability'(https://www.city.minato.tokyo.jp/easyjp/en/welfaresystem/disabled/certuficateofdisability.html)"
+        }
+      ],
+      "search_queries_used": [
+        "disability certificate online application parent guardian child Japan Germany digital administration",
+        "Germany Schwerbehindertenausweis online application Bundesportal severely disabled person's pass digital",
+        "UK disability certificate online apply on behalf of child gov.uk DLA digital service"
+      ],
+      "comparator_notes": "한국 TEMP-004는 '이미 인정된 장애'에 대한 증명서 발급의 온라인·대리화(행정 편의)인 반면, 비교 가능한 해외 사례 대다수는 '장애 인정/수당 청구' 단계의 보호자 대리 제도. '부모 명의 인증서를 자녀 발급에 연계'하는 한국식 디지털 본인확인 연계 모델에 정확히 대응하는 해외 사례는 미발견. 보호자 대리 신청 보장이라는 공통 원리 차원에서 영국·독일·일본 3개국 비교."
+    },
+    {
+      "temp_id": "TEMP-005",
+      "internationalCases": [
+        {
+          "country": "일본",
+          "policyName": "産後ケア事業 (산후케어사업, Postpartum Care Program) — 모자보건법(母子保健法)상 시정촌 의무사업",
+          "similarity": "산후 돌봄을 법정 제도로 규율한다는 점에서 한국의 모자보건법 기반 규율과 동일 계열. 2019년 12월 모자보건법 개정으로 산후케어가 법적 근거를 갖추고 2021년 4월부터 전 시정촌의 노력의무화. 이용자 본인부담(co-payment)을 소득에 따라 조정하는 등 이용자 보호·접근성을 제도적으로 관리.",
+          "difference": "일본은 국가 50%·지자체 50% 보조의 '공적 운영·보조' 모델로 산모가 사적 산후조리원에 거액을 '선결제'하는 한국 시장 구조와 근본적으로 다름. 따라서 한국 TEMP-005의 핵심인 '민간 산후조리원 선결제·예약금 전액 반환 의무, 폐업 30일 전 신고' 같은 소비자보호형 규제 자체가 일본에서는 구조적으로 불필요/부재. 즉 '돌봄 보장' 모델 대 '소비자 보호' 모델의 차이.",
+          "source": "Frontiers in Global Women's Health, 'Postpartum Care Program in Japan' (https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2024.1333758/full); PMC 'Postpartum care services and multi-disciplinary collaboration in Japan' (https://pmc.ncbi.nlm.nih.gov/articles/PMC11119408/)"
+        },
+        {
+          "country": "한국(비교축)·일반 소비자보호법제",
+          "policyName": "전자상거래법(Electronic Commerce Act)상 청약철회·환불권 / 공정거래위원회(KFTC) 약관심사",
+          "similarity": "TEMP-005가 '선결제 대금 전액 반환'을 의무화하는 것은 일반 소비자보호 법리(계약 철회 시 환불, 불공정 약관 시정)를 산후조리원 영역에 특화·강화하는 것. 2021.1~2024.3 산후조리원 민원 980건 중 50.5%가 해지·환불 관련 분쟁으로, 서울시는 불공정 약관을 공정위 심사에 회부하고 이용요금 고지 위반을 복지부에 신고하는 방식으로 대응해 온 점이 TEMP-005 입법의 배경·연속선상.",
+          "difference": "이는 해외 사례가 아니라 한국 내 일반 소비자보호 법제와의 관계를 보여주는 비교축. 기존에는 일반 전자상거래법·약관규제(사후 분쟁 대응) 중심이었던 것을 TEMP-005가 모자보건법 시행규칙으로 '사전 의무(반환·신고·고지·안전조치)'로 끌어올린 점이 진전.",
+          "source": "The Korea Herald, 'They say Korean moms get best postpartum care thanks to joriwon. But at what cost?' (https://www.koreaherald.com/article/10027176); ICLG 'Consumer Protection Laws and Regulations Report 2026 Korea' (https://iclg.com/practice-areas/consumer-protection-laws-and-regulations/korea)"
+        }
+      ],
+      "search_queries_used": [
+        "postnatal care center prepayment refund consumer protection regulation Japan Korea",
+        "Japan postpartum care sangotai support program municipality fee subsidy maternal child health"
+      ],
+      "comparator_notes": "한국식 '민간 산후조리원 선결제 후 폐업 시 환불 미반환 피해'라는 문제는 산후조리원이 사적 영리시설로 발달한 한국 특유의 시장구조에서 비롯됨. 일본·유럽은 산후 돌봄을 공적 보조·공적 제공(돌봄 보장) 모델로 운영해 동일한 '선결제 환불' 분쟁 구조가 사실상 부재하여 '직접 대응되는 해외 소비자보호 규제'는 미발견에 가까움. 따라서 일본의 공적 모델(대조군)과 한국 내 일반 소비자보호 법제(연속선)를 비교축으로 제시. 유럽 산후케어의 개별 환불 규제 사례는 검색에서 확인되지 않음."
+    },
+    {
+      "temp_id": "TEMP-006",
+      "internationalCases": [
+        {
+          "country": "독일",
+          "policyName": "Bürgergeld (시민기초소득, 구 Hartz IV/SGB II) — 개인별 'Kooperationsplan(협력계획)'",
+          "similarity": "2023년 Hartz IV를 대체한 Bürgergeld는 기존의 'Eingliederungsvereinbarung(통합협약)'을 개인 맞춤형 'Kooperationsplan(협력계획)'으로 교체하고, 'work first(우선취업)' 대신 교육·훈련을 강조하며 제재를 완화하는 등 '참여자 역량·의지 반영 맞춤형'이라는 TEMP-006 개편 철학과 직접 부합. 수급 첫 6개월을 큰 제재가 없는 '신뢰기간(Vertrauenszeit)'으로 둔 점도 참여 유인·완화 방향과 일치.",
+          "difference": "독일 Bürgergeld는 실업부조 전반의 보편 제도인 반면, 한국 자활지원체계는 기초생활보장 수급자 등 근로능력 수급자를 위한 자활근로 중심 사업으로 적용 대상·재정구조가 좁음. 또 TEMP-006은 '근로단가 인상·부양의무자 기준 완화' 등 한국 기초보장 고유 요소를 포함하는데 이는 독일 제도에 대응 항목이 없음. (참고: 독일은 2025년 Bürgergeld를 Neue Grundsicherung으로 재개편 추진 중)",
+          "source": "Wikipedia 'Bürgergeld'(https://en.wikipedia.org/wiki/B%C3%BCrgergeld); OSW Centre for Eastern Studies 'Germany: dispute over benefits rules for the long-term unemployed'(https://www.osw.waw.pl/en/publikacje/analyses/2022-11-16/germany-dispute-over-benefits-rules-long-term-unemployed); Centre for Public Impact 'The Hartz employment reforms in Germany'"
+        },
+        {
+          "country": "영국",
+          "policyName": "Universal Credit — 'Claimant Commitment(수급자 약속)' 및 Work Coach 개인 맞춤 지원",
+          "similarity": "Universal Credit는 work coach와 함께 개인 사정(정신건강·돌봄책임·가정폭력·노숙·난민 등)을 반영해 'Claimant Commitment'를 개인 맞춤으로 설계·지속 갱신하는 '참여자 맞춤형' 구조로, TEMP-006의 '역량·의지 반영 맞춤형'과 핵심 원리가 동일. 나아가 Health and Disability White Paper에 따라 2026년부터 WCA를 폐지하고 Work Coach가 개인별 조건부과(conditionality) 수준을 정하는 등 한층 개인화된 방향으로 개혁 진행 중.",
+          "difference": "Universal Credit는 6개 급여를 통합한 단일 소득보장 급여 안에 근로유인을 내장한 보편적 제도인 반면, 한국 자활지원체계는 기존 다층 기초보장 위에 얹힌 자활근로·근로단가 중심 사업. 또 영국은 제재(sanctions)와 결합된 조건부과 강제가 핵심 논쟁인 반면, TEMP-006은 시범사업을 통한 참여대상 확대·기준 완화에 무게를 둠. 일선 재량에 따른 지원 편차 문제는 양국 공통 위험.",
+          "source": "GOV.UK 'Universal Credit: Your claimant commitment'(https://www.gov.uk/universal-credit/your-claimant-commitment); PMC 'Navigating Personalised Support in Universal Credit'(https://pmc.ncbi.nlm.nih.gov/articles/PMC12054871/)"
+        },
+        {
+          "country": "일본",
+          "policyName": "自立支援センター (자립지원센터, jiritsu shien sentā) 및 생활곤궁자 자립지원 제도",
+          "similarity": "노숙·생활곤궁 상태에서 안정 주거·취업으로의 이행을 3~6개월 집중 지원하고, 직업알선뿐 아니라 건강검진·치료·법률(채무정리)지원 등 다면적 맞춤 지원을 제공하는 점이 TEMP-006의 '참여자 맞춤형' 통합지원 지향과 유사.",
+          "difference": "일본 자립지원센터는 생활보호(seikatsu hogo) 급부를 직접 지급하지 않고 노숙·취약계층의 자립 이행을 위한 시설·서비스 중심인 반면, 한국 자활지원체계는 기초생활보장 수급자에 대한 자활근로 일자리·근로단가(소득) 제공이 핵심이라 급여-노동 연계 방식이 다름. (참고: 검색에서는 2002년 자립지원센터 설치 근거가 주로 확인되었고, 2015년 생활곤궁자자립지원법 관련 1차 출처는 명확히 확인되지 않음)",
+          "source": "LegalClarity 'How Does Japan Deal With Homelessness: Laws and Culture'(https://legalclarity.org/how-does-japan-deal-with-homelessness/)"
+        }
+      ],
+      "search_queries_used": [
+        "Germany Hartz IV reform Bürgergeld individualized welfare-to-work activation OECD",
+        "UK Universal Credit personalized claimant commitment work coach welfare-to-work reform",
+        "Japan self-reliance support program needy persons Seikatsu Konkyusha Jiritsu Shien employment support law 2015"
+      ],
+      "comparator_notes": "독일 Bürgergeld(협력계획)와 영국 Universal Credit(Claimant Commitment+Work Coach)이 '참여자 맞춤형 자립지원'의 가장 직접적 해외 선례. 일본은 자립지원센터·생활곤궁자 지원이 유사하나 급부 구조가 달라 보조 사례로 제시. 일본 2015년 생활곤궁자자립지원법 자체의 1차 출처는 이번 검색에서 명확히 확인되지 않아 명시함."
+    },
+    {
+      "temp_id": "TEMP-007",
+      "internationalCases": [
+        {
+          "country": "영국",
+          "policyName": "Pension Credit — Guarantee Credit(보장크레딧)",
+          "similarity": "TEMP-007의 '하후상박(저소득 노인일수록 더 많이)' 취지에 가장 부합. Guarantee Credit은 저소득 연금연령자의 소득을 정부가 정한 최저보장 수준(2026/27년 단신 주 £238, 부부 £363.25)까지 끌어올리는 '소득 부족분 보전' 방식으로, 소득이 낮을수록 보전액이 커지는 강한 하후상박 구조. 자산·소득을 따지는 자산조사(means test)형이라는 점도 '소득 하위' 대상 차등의 방향과 부합.",
+          "difference": "영국 Pension Credit은 기초 국가연금(State Pension) '외부의 별도 보충급여'로, 한국처럼 '기초연금 단일 제도 내에서 균등→차등으로 지급방식을 전환'하는 것과 제도 형태가 다름. 또 영국은 소득을 보장선까지 채우는 'top-up(보전)' 방식이라 한국이 검토하는 '저소득일수록 더 많은 정액 차등' 방식과 산식이 상이.",
+          "source": "GOV.UK 'Pension Credit: Overview'(https://www.gov.uk/pension-credit), 'Pension Credit: Eligibility'(https://www.gov.uk/pension-credit/eligibility)"
+        },
+        {
+          "country": "스웨덴",
+          "policyName": "Garantipension (보증연금)",
+          "similarity": "소득비례 공적연금(소득연금)이 적거나 없는 저소득 고령자에게 조세재원으로 최저 연금수준을 보장하는 제도로, '저소득일수록 더 두텁게'라는 하후상박 원리에 부합. 소득연금이 늘수록 보증연금이 감액(추가 소득연금 1크로나당 약 48% 감액)되어 저소득층에 집중 지원되는 점이 핵심 유사.",
+          "difference": "보증연금은 16세부터 40년 거주 요건 등 '거주기간 기반' 보편·기초보장 제도인 반면, 한국 기초연금은 65세 이상 소득 하위 70% 대상의 별도 제도로 설계 기반이 다름. 또 한국 TEMP-007은 기존 '하위 70% 균등 지급'을 차등화하려는 개편 논의인 반면 스웨덴은 처음부터 소득(연금)테스트형 감액 구조.",
+          "source": "Pensionsmyndigheten(스웨덴 연금청) 'Guarantee pension – if you have had a low income'(https://www.pensionsmyndigheten.se/other-languages/english-engelska/english-engelska/guaranteed-pension-for-those-with-low-income); OECD 'Pensions at a Glance 2023 — Sweden'"
+        },
+        {
+          "country": "독일",
+          "policyName": "Grundrente (기초연금 보충, 2021.1.1 시행)",
+          "similarity": "35년(자녀양육·간병 포함 33년 이상) 이상 기여한 저소득 가입자에게 공적연금을 상향 보충하되, 종합 소득테스트(단신 월 €1,250, 부부 €1,950 초과 시 감액)를 적용해 '저소득층에 더 두텁게' 지급하는 하후상박형. 약 130만 명에게 평균 월 €75 보충(연 €13억 규모). 별도 신청 없이 데이터로 자동 검증·지급하는 행정 자동화도 특징.",
+          "difference": "Grundrente는 '오랜 저임금 기여 이력'을 가진 사람에 대한 기여기반 보충으로, 한국 기초연금처럼 기여와 무관한 '소득 하위 70% 대상 정액 기초연금'과 자격기준 철학이 다름(독일은 33~35년 기여 요건). 또 Max Planck 연구소 등은 Grundrente의 소득테스트가 가구단위 누락·형평성 문제를 낳았다는 비판을 제기해, 한국 하후상박 설계 시 참고할 위험요소가 됨.",
+          "source": "ISSA 'Germany: Introduction of a Basic Pension for Low-Income Pensioners'(https://iskm.issa.int/node/13569); Bundesregierung 'Questions and answers on the basic pension'(https://www.bundesregierung.de/breg-en/service/archive/cabinet-basic-pension-1944086); MPISOC 'Target missed: Supplemental pension benefits (Grundrente) create new injustices'"
+        },
+        {
+          "country": "일본",
+          "policyName": "国民年金 基礎年金 (국민연금 기초연금, 정액) vs 厚生年金 (후생연금, 소득비례) — 저소득 보험료 면제제도",
+          "similarity": "정액(flat-rate)인 기초연금과 소득비례인 후생연금의 2층 구조에서, 저소득 1호 가입자에게 소득에 따라 보험료를 전액·3/4·1/2·1/4 면제하는 등 저소득층을 두텁게 배려하는 장치가 존재해 하후상박적 요소를 일부 내포.",
+          "difference": "일본은 한국 기초연금에 직접 대응하는 '하위 70% 정액 균등→차등 전환'식 개편이 아니라, 기초연금은 가입·기여 기반의 보편 정액 연금이며 저소득 배려는 주로 보험료 면제·감면을 통해 이뤄짐. 즉 '지급액 차등'이 아니라 '기여부담 차등'에 가까워 TEMP-007의 지급방식 개편과는 메커니즘이 다름.",
+          "source": "National Institute of Population and Social Security Research(IPSS) 'Pensions'(https://www.ipss.go.jp/s-info/e/jasos2001/p7-15.html); SSA 'Social Security Programs Throughout the World: Asia and the Pacific 2018 — Japan'(https://www.ssa.gov/policy/docs/progdesc/ssptw/2018-2019/asia/japan.html)"
+        }
+      ],
+      "search_queries_used": [
+        "UK Pension Credit means-tested low-income pensioners guarantee credit gov.uk",
+        "Sweden guarantee pension garantipension income-tested low income elderly",
+        "Germany Grundrente basic pension supplement low-income pensioners means test 2021",
+        "Japan National Pension basic old-age pension flat-rate vs Employees Pension low income elderly benefit kyufukin"
+      ],
+      "comparator_notes": "'저소득 고령자에게 더 두텁게'라는 하후상박 원리는 영국 Pension Credit(Guarantee Credit), 스웨덴 Garantipension, 독일 Grundrente가 대표적 선례로 모두 자산/소득(연금)테스트를 활용. 다만 한국 기초연금처럼 '하위 70% 대상 단일 기초연금 내에서 균등→차등 전환'하는 정확한 형태와 일치하는 사례는 없으며, 해외 사례 대부분은 별도 보충급여(top-up) 또는 기여기반 보충 형태라는 점이 핵심 차이. 독일 Grundrente는 소득테스트 형평성 부작용 비판(MPISOC)이 한국 설계에 시사점."
+    }
+  ]
+}
