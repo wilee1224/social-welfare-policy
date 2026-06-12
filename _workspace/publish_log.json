@@ -1,137 +1,45 @@
 {
-  "runs": [
+  "published_at": "2026-06-12",
+  "publisher": "content-publisher",
+  "backup_file": "data/policies.backup.json",
+  "target_file": "data/policies.json",
+  "lastUpdated": "2026-06-12",
+  "summary": {
+    "input_items": 2,
+    "published": 2,
+    "held": 0,
+    "id_range": "2026-0015 ~ 2026-0016"
+  },
+  "published_items": [
     {
-      "published_at": "2026-06-10 19:45",
-      "published_count": 7,
-      "skipped_count": 0,
-      "skipped_reasons": [],
-      "new_ids": ["2026-0008", "2026-0009", "2026-0010", "2026-0011", "2026-0012", "2026-0013", "2026-0014"],
-      "items": [
-        {
-          "temp_id": "MTEMP-001",
-          "id": "2026-0008",
-          "title": "범정부 청소년 자살예방 대책 발표 — 사회정서교육 확대·AI 위기징후 발굴",
-          "factCheck_status": "verified",
-          "fact_badge": null,
-          "corrections_applied": []
-        },
-        {
-          "temp_id": "MTEMP-002",
-          "id": "2026-0009",
-          "title": "2026년 청소년건강행태조사에 우울증 선별도구 PHQ-9 최초 도입",
-          "factCheck_status": "verified",
-          "fact_badge": null,
-          "corrections_applied": []
-        },
-        {
-          "temp_id": "MTEMP-006",
-          "id": "2026-0010",
-          "title": "정신건강복지법 개정 — 동료지원쉼터·절차조력서비스·동료지원인 양성 신설",
-          "factCheck_status": "partial",
-          "fact_badge": "일부 확인 완료",
-          "corrections_applied": [
-            "source.url을 부정확한 lsId=000222 링크에서 정신건강복지법 정식 링크 'https://www.law.go.kr/법령/정신건강증진및정신질환자복지서비스지원에관한법률'로 교체",
-            "source.siteName을 '국가법령정보센터'에서 '국가법령정보센터(정신건강복지법)'로 명시"
-          ]
-        },
-        {
-          "temp_id": "MTEMP-003",
-          "id": "2026-0011",
-          "title": "정신질환자 치료비 지원사업 기준 변경 — 기산단위 연→일, 등록기관 확대, 응급센터 확충",
-          "factCheck_status": "verified",
-          "fact_badge": null,
-          "corrections_applied": []
-        },
-        {
-          "temp_id": "MTEMP-004",
-          "id": "2026-0012",
-          "title": "정신건강 심리상담 바우처사업으로 사업명 변경 및 확대 (구 전국민 마음투자 지원사업)",
-          "factCheck_status": "partial",
-          "fact_badge": "일부 확인 완료",
-          "corrections_applied": [
-            "목표인원 '100만 명' → '50만 명(전 국민의 1%)'으로 정정 (summary, newPolicy, keyChanges, lifeImpact 전체 적용)"
-          ]
-        },
-        {
-          "temp_id": "MTEMP-005",
-          "id": "2026-0013",
-          "title": "자살예방 예산 20.6% 증액 및 자살유족 원스톱 지원 전국 확대",
-          "factCheck_status": "verified",
-          "fact_badge": null,
-          "corrections_applied": []
-        },
-        {
-          "temp_id": "MTEMP-007",
-          "id": "2026-0014",
-          "title": "[발의 단계 — 미통과] 정신건강복지법 보호의무자 입원제도 폐지 법안 발의",
-          "factCheck_status": "verified",
-          "fact_badge": null,
-          "proposal_stage": true,
-          "corrections_applied": []
-        }
-      ],
-      "files_updated": [
-        "data/policies.json",
-        "data/policies.backup.json"
-      ],
-      "notes": "정신보건 7건(MTEMP-001~007) 발행, 신규 ID 2026-0008~0014. verified 5건, partial 2건(2026-0010 정신건강복지법 개정, 2026-0012 심리상담 바우처). unverified 0건으로 보류 항목 없음. category 전부 '정신보건'. lastUpdated 2026-06-10 유지. 7건을 changes 배열 앞에 날짜 내림차순으로 추가, 기존 7건(2026-0001~0007) 유지. JSON 유효성 검증 통과. 팩트체크 정정 2건 반영: (1) 2026-0012 목표인원 100만→50만 명, (2) 2026-0010 정신건강복지법 source.url 정식 링크 교체·siteName 명시."
+      "id": "2026-0015",
+      "temp_id": "TEMP-A",
+      "title": "청년특화 자활지원 강화 — 청년자립도전 자활사업단 개선",
+      "category": "기초생활보장",
+      "date": "2026-06-11",
+      "factCheck_status": "partial",
+      "corrections_applied": [
+        "시행일 '2026년 5월' → '2026년 4월 29일'로 정정 (summary, newPolicy, keyChanges, lifeImpact)",
+        "대상 연령 18~39세에 '(미확인)' 태그 추가 (summary, newPolicy, howToApply.eligibility)",
+        "영국 Youth Obligation Support Programme 해외사례에 '현재 철회·대체 진행 중' 단서 추가"
+      ]
     },
     {
-      "published_at": "2026-06-10 10:41",
-      "published_count": 4,
-      "skipped_count": 0,
-      "skipped_reasons": [],
-      "new_ids": ["2026-0004", "2026-0005", "2026-0006", "2026-0007"],
-      "items": [
-        {
-          "temp_id": "TEMP-004",
-          "id": "2026-0004",
-          "title": "미성년 자녀 장애인증명서 온라인 발급 신설",
-          "factCheck_status": "verified",
-          "fact_badge": null,
-          "corrections_applied": [
-            "source.siteName 라벨을 '뉴스핌(보건복지부 보도자료 기반)'으로 명확화(권고 반영)"
-          ]
-        },
-        {
-          "temp_id": "TEMP-005",
-          "id": "2026-0005",
-          "title": "산후조리원 선결제·예약금 미반환 피해 예방 모자보건법 시행규칙 개정안 입법예고",
-          "factCheck_status": "verified",
-          "fact_badge": null,
-          "corrections_applied": [
-            "source.siteName 라벨을 '헤럴드경제(보건복지부 보도자료 기반)'으로 명확화(권고 반영)"
-          ]
-        },
-        {
-          "temp_id": "TEMP-006",
-          "id": "2026-0006",
-          "title": "자활 지원 '참여자 맞춤형'으로 개편, 1차 시범사업 설명회 개최",
-          "factCheck_status": "partial",
-          "fact_badge": "일부 확인 완료",
-          "corrections_applied": [
-            "title 및 keyChanges에서 '공모' → '설명회'로 변경 (정식 공모 전 설명회 단계)",
-            "date 및 source.publishedAt을 2026-06-09 → 2026-05-14로 정정 (korea.kr 원출처 게시일)"
-          ]
-        },
-        {
-          "temp_id": "TEMP-007",
-          "id": "2026-0007",
-          "title": "[논의 단계] 기초연금 '하후상박' 개편 위한 전문가 포럼 개최",
-          "factCheck_status": "partial",
-          "fact_badge": "일부 확인 완료",
-          "discussion_stage": true,
-          "corrections_applied": [
-            "독일 Grundrente 평균 보충액 '€75' → '약 €83~€97'로 수정",
-            "'논의 단계 - 확정 변경 아님' 표기 유지"
-          ]
-        }
-      ],
-      "files_updated": [
-        "data/policies.json",
-        "data/policies.backup.json"
-      ],
-      "notes": "TEMP-004~007 4건 발행. verified 2건, partial 2건. unverified 0건으로 보류 항목 없음. lastUpdated 2026-06-10 갱신. 기존 3건(2026-0001~0003) 유지, 신규 4건을 changes 배열 앞에 최신순 추가. JSON 유효성 검증 통과."
+      "id": "2026-0016",
+      "temp_id": "TEMP-B",
+      "title": "노인학대 예방 제도 개선 — 노인복지법령 개정에 따른 신고의무자·교육·제재 강화",
+      "category": "노인복지",
+      "date": "2026-06-12",
+      "factCheck_status": "partial",
+      "corrections_applied": [
+        "신고의무자 시행일 '2025.10.2'에 '(법령정보센터 재확인 필요)' 표기 추가",
+        "평가등급 하향 항목에 '(근거 고시 미확인)' 태그 추가"
+      ]
     }
-  ]
+  ],
+  "held_items": [],
+  "validation": {
+    "json_valid": true,
+    "total_changes_after": 16
+  }
 }

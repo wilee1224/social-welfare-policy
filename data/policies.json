@@ -1,6 +1,136 @@
 {
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-12",
   "changes": [
+    {
+      "id": "2026-0016",
+      "date": "2026-06-12",
+      "title": "노인학대 예방 제도 개선 — 노인복지법령 개정에 따른 신고의무자·교육·제재 강화",
+      "category": "노인복지",
+      "summary": "제10회 노인학대예방의 날을 맞아 노인복지법령 개정에 따라 간호조무사·사회복지사를 신고의무자로 추가(2025.10.2 시행, 법령정보센터 재확인 필요)하고 신고의무 교육 대상을 기관·시설의 장으로 확대(2026.12.31 시행)하며 학대판정 장기요양기관의 평가등급을 1단계 하향(근거 고시 미확인)하는 등 노인학대 예방 제도를 강화한다.",
+      "previousPolicy": "원문에 기존 정책 명시 없음",
+      "newPolicy": "①신고의무자 직군 확대: 간호조무사·사회복지사를 신고의무자로 추가 지정(2025.10.2 시행, 법령정보센터 재확인 필요), ②신고의무 교육 대상 확대: 보건·복지·상담 등을 수행하는 기관·시설의 장에게 소속 신고의무자 교육 실시 의무화(2026.12.31 시행), ③시설 학대 제재 강화: 학대판정 장기요양기관 평가등급 1단계 하향(근거 고시 미확인) 및 가산금 지급 제외(2025년부터 적용), ④돌봄통합지원법 시행(2026.3)에 따른 돌봄통합 종사자 학대예방 교육자료 제작·배포.",
+      "keyChanges": [
+        "신고의무자 직군 확대: 간호조무사·사회복지사 추가 지정(2025.10.2 시행, 법령정보센터 재확인 필요)",
+        "신고의무 교육 대상 확대: 기관·시설의 장에게 소속 신고의무자 교육 실시 의무화(2026.12.31 시행)",
+        "시설 학대 제재 강화: 학대판정 장기요양기관 평가등급 1단계 하향(근거 고시 미확인) 및 가산금 지급 제외(2025년부터 적용)",
+        "돌봄통합지원법 시행(2026.3)에 따른 돌봄통합 종사자 학대예방 교육자료 제작·배포"
+      ],
+      "howToApply": {
+        "eligibility": "노인학대 의심 상황을 알게 된 모든 국민(누구나 신고 가능). 직무상 노인학대를 알게 되면 즉시 신고해야 하는 신고의무자에 의료인·노인복지시설 종사자 등에 더해 간호조무사·사회복지사가 추가 지정되었습니다(2025.10.2 시행, 법령정보센터 재확인 필요). 신고의무자 교육 대상은 보건·복지·상담 등을 수행하는 기관·시설의 장으로 확대되어, 기관장이 소속 신고의무자에게 교육을 실시할 의무가 생깁니다(2026.12.31 시행).",
+        "process": "1) 노인학대가 의심되면 국번없이 노인보호전문기관 ☎1577-1389로 신고·상담합니다(24시간 운영). 2) 긴급·위급 상황은 경찰 ☎112로 신고합니다. 3) 전화가 부담스러우면 노인학대 신고앱 '나비새김(노인지킴이)'으로도 신고할 수 있습니다. 4) 신고가 접수되면 노인보호전문기관이 현장조사·상담을 거쳐 피해 노인 보호와 사례관리를 진행합니다. 신고의무자가 직무상 학대를 알고도 신고하지 않으면 500만 원 이하의 과태료가 부과됩니다.",
+        "documents": [
+          "별도 서류 없이 전화·앱으로 신고 가능",
+          "학대 정황을 알 수 있는 사진·메모·진술 등(있는 경우 신고 시 도움)"
+        ],
+        "contact": "노인보호전문기관 ☎1577-1389(국번없이, 24시간) / 경찰 ☎112 / 정부민원안내콜센터 ☎110 / 신고앱 '나비새김(노인지킴이)' / 중앙노인보호전문기관 noinboho1389.or.kr"
+      },
+      "lifeImpact": "간호조무사와 사회복지사가 노인학대 신고의무자로 새로 지정된 것은(2025.10.2 시행, 법령정보센터 재확인 필요) 노인을 가장 가까이서 돌보는 직군이 학대 징후를 포착할 가능성이 높기 때문입니다. 요양원·재가서비스 현장에서 노인의 멍, 영양실조, 위축된 태도 등을 일상적으로 접하는 이들이 신고 책임을 지게 되면 숨겨진 학대가 더 빨리 드러나, 피해 노인이 조기에 보호받을 수 있습니다. 또한 학대로 판정된 장기요양기관은 평가등급이 1단계 하향(근거 고시 미확인)되고 가산금 지급에서 제외됩니다(2025년부터 적용). 이는 시설 운영자에게 직접적인 불이익이어서, 입소 노인 입장에서는 시설이 학대를 방치할 동기가 줄고 돌봄의 질이 높아지는 효과가 있습니다. 학대 피해를 입은 노인은 노인보호전문기관을 통해 학대 행위자와 분리되어 학대피해노인 전용쉼터에 입소할 수 있으며(65세 이상, 4개월 이내·연간 최대 6개월), 쉼터에서는 숙식 제공, 전문상담·심리치유 프로그램, 사회성향상훈련, 여가지도, 법률자문 협조, 기본 의료비 지원 등을 받을 수 있습니다. 노인학대 신고는 1577-1389만 기억하면 누구나 할 수 있습니다.",
+      "internationalCases": [
+        {
+          "country": "일본 (Japan)",
+          "policyName": "高齢者虐待防止法 (Act on the Prevention of Elder Abuse and Support for Caregivers of Elderly Persons, 2005년 제정/2006년 4월 시행, 法律第124号)",
+          "similarity": "가정 및 시설(institutional) 양 영역 모두에 대해 학대 발견 시 시정촌(지자체) 신고(통보) 의무제를 법으로 명시 — 한국 TEMP-B의 신고의무자 직군 확대·시설학대 제재 강화와 동일하게 신고의무 기반 학대예방 체계. 신체적·방임·심리적·성적·경제적 학대 5유형을 정의하고, 시설 종사자의 직무상 보호의무 불이행(방치·결식 등)을 학대로 규정. 신고자 신원보호 조항도 한국 제도와 유사.",
+          "difference": "일본은 2005년 제정 시점부터 신고의무·시설학대를 포괄한 단일법 체계인 반면, 한국 제도는 기존 노인복지법령을 개정해 간호조무사·사회복지사를 신고의무자로 '추가'(2025.10.2)하고 교육의무 대상을 기관·시설의 장으로 확대(2026.12.31)하는 점진적 강화 방식. 또한 한국은 학대판정 장기요양기관의 평가등급 1단계 하향·가산금 제외라는 구체적 시설 제재를 신설한 점이 차별적. 일본법은 학자들로부터 보호명령·임시쉼터 등 피해자 즉시보호 수단 미비가 한계로 지적됨.",
+          "source": "Japanese Law Translation(일본 법무성 운영) 'Act on the Prevention of Elder Abuse and Support for Caregivers of Elderly Persons' (https://www.japaneselawtranslation.go.jp/en/laws/view/3929/en); PMC 'Addressing Elder Abuse in Japan, the Oldest Country in Asia' (https://pmc.ncbi.nlm.nih.gov/articles/PMC6243479/)"
+        },
+        {
+          "country": "미국 (USA)",
+          "policyName": "Elder Justice Act (EJA, 2010년 제정, Patient Protection and Affordable Care Act의 일부)",
+          "similarity": "연방기금 연 1만 달러 이상 수령 장기요양시설(long-term care facility)의 직원·관리자·계약자·소유자에게 입소자 대상 범죄 '합리적 의심' 시 의무 신고를 부과 — 한국 제도의 시설 종사자 신고의무·교육의무 강화와 동일한 시설 중심 의무신고 체계. 신고 미이행 시 민사 과태료, 신고자 보복 금지 등 제재·보호 장치를 둔 점도 유사.",
+          "difference": "미국 EJA는 연방 차원에서 '시설 종사자 전원'에게 의무를 부과하고 중상해 의심은 2시간, 그 외 범죄는 24시간 내 신고라는 구체적 시한과 최대 30만 달러(기본 상한 20만 달러) 과태료를 규정. 한국 제도는 직군(간호조무사·사회복지사)을 점진적으로 추가하고 교육의무·평가등급 하향 등 행정제재 중심으로 접근하며 신고 시한·고액 벌금 체계는 상이. 또한 EJA는 ACL(Administration for Community Living)을 통한 연방 인프라 지원 성격.",
+          "source": "ACL(미국 보건복지부 산하 Administration for Community Living) 'The Elder Justice Act' (https://acl.gov/about-acl/elder-justice-act); Congress.gov CRS Report R43707 'The Elder Justice Act: Background and Issues for Congress' (https://www.congress.gov/crs-product/R43707)"
+        },
+        {
+          "country": "영국 (UK)",
+          "policyName": "Care Act 2014 — 성인 안전보호(Safeguarding Adults at Risk) 및 Making Safeguarding Personal",
+          "similarity": "지방정부가 위험에 처한 성인의 학대·방임을 '합리적으로 의심할 사유'가 있을 때 필요한 조사(safeguarding enquiry)를 수행하도록 법정 의무화 — 학대 의심 시 공적 대응을 의무화한다는 점에서 한국 제도의 신고의무 확대 방향과 맥락이 유사. Making Safeguarding Personal은 당사자 중심·역량강화 원칙으로 보호를 설계.",
+          "difference": "영국은 한국·일본·미국과 달리 개인에 대한 보편적 '의무신고(mandatory reporting)' 제도를 두지 않고, 지방정부의 '조사 의무'와 당사자 의사 존중(Making Safeguarding Personal) 중심으로 운영. 따라서 신고의무자 직군 지정·교육의무화 방식인 한국 제도와는 제도 설계 철학이 상이(의무신고 모델 vs 권한기관 조사·당사자 주도 모델).",
+          "source": "legislation.gov.uk 'Care Act 2014 — Safeguarding Adults at Risk of Abuse or Neglect' (https://www.legislation.gov.uk/ukpga/2014/23/part/1/crossheading/safeguarding-adults-at-risk-of-abuse-or-neglect); SCIE 'The Care Act: safeguarding adults' (https://www.scie.org.uk/safeguarding/adults/care-act-safeguarding-adults/)"
+        }
+      ],
+      "factCheck": {
+        "status": "partial",
+        "checkedAt": "2026-06-12",
+        "fact_badge": "일부 확인 완료",
+        "sources": [
+          "https://noinboho1389.or.kr/ (중앙노인보호전문기관)",
+          "https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=1660 (찾기쉬운 생활법령정보)",
+          "https://www.law.go.kr/LSW//lsLawLinkInfo.do?lsId=001777 (노인복지법 제39조의6)",
+          "https://laws.e-gov.go.jp/law/417AC1000000124 (일본 高齢者虐待防止法, 法律第124号)",
+          "https://www.congress.gov/crs-product/R43707 (US EJA CRS Report)",
+          "https://acl.gov/about-acl/elder-justice-act"
+        ],
+        "notes": "일부 확인 완료. 신고전화 체계(1577-1389/112/110/나비새김/500만원 과태료), 교육대상 확대(2026.12.31), 일본·미국 해외사례는 1차 출처로 확인. 정정 반영: (1) 간호조무사·사회복지사 신고의무자 추가 '2025.10.2' 시행일은 관보/국가법령정보센터 재확인 필요로 표기, (2) 학대판정 장기요양기관 평가등급 1단계 하향은 근거 고시 미확인으로 표기. 본 건은 금액·비율 수치가 없는 제도 개선 사안임."
+      },
+      "source": {
+        "url": "https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1490810&mid=a10503000000",
+        "siteName": "보건복지부",
+        "publishedAt": "2026-06-12"
+      },
+      "tags": ["노인복지", "노인학대", "신고의무자", "장기요양기관", "학대예방"]
+    },
+    {
+      "id": "2026-0015",
+      "date": "2026-06-11",
+      "title": "청년특화 자활지원 강화 — 청년자립도전 자활사업단 개선",
+      "category": "기초생활보장",
+      "summary": "보건복지부가 18~39세(미확인) 자활참여 청년 대상 청년자립도전 자활사업단의 역량강화비를 1인당 220만 원에서 300만 원으로 확대하고 심리·정서지원 프로그램 신설·청년형 진입지원체계(게이트웨이) 도입·현장실습 활성화 등 청년특화 자활지원을 강화하며 2026년 4월 29일부터 시행한다.",
+      "previousPolicy": "기존 즉각적 취·창업 목표 중심의 자활지원, 역량강화비 1인당 220만 원",
+      "newPolicy": "역량강화비를 1인당 220만 원에서 300만 원으로 확대, 심리·정서지원 프로그램 신설, 청년형 진입지원체계(게이트웨이) 도입으로 맞춤형 사례관리 제공, 현장실습(인턴십) 활성화로 일 경험 기회 확대. 기존 즉각적 취·창업 목표 중심에서 청년 준비 상황에 맞춘 맞춤형 지원으로 전환. 대상은 18~39세(미확인) 자활참여 청년(5명 이상 구성), 2026년 4월 29일부터 시행.",
+      "keyChanges": [
+        "역량강화비 1인당 220만 원→300만 원으로 확대",
+        "심리·정서지원 프로그램 신설",
+        "청년형 진입지원체계(게이트웨이) 도입으로 맞춤형 사례관리 제공",
+        "현장실습(인턴십) 활성화로 일 경험 기회 확대",
+        "즉각적 취·창업 목표 중심에서 청년 준비 상황 맞춤형 지원으로 전환(2026년 4월 29일 시행)"
+      ],
+      "howToApply": {
+        "eligibility": "자활사업에 참여하는 18~39세(미확인) 청년. 조건부 수급자(생계급여를 받으며 자활 참여를 조건으로 하는 사람), 자활급여특례자, 일반 수급자, 차상위계층 등 자활사업 참여 자격이 있는 청년이 대상입니다. 청년자립도전 자활사업단은 18~39세(미확인) 청년 5명 이상으로 구성됩니다. (대상 연령 기준은 보도자료 원문 재확인 권장)",
+        "process": "1) 기초생활보장(생계급여) 수급자인 경우: 거주지 읍·면·동 주민센터(행정복지센터)에서 자활사업 참여를 신청하면 관할 지역자활센터로 의뢰됩니다. 2) 수급자가 아닌 차상위·저소득 청년인 경우: 먼저 주민센터에 자활사업 참여를 신청하고 소득·재산 조사를 거친 뒤 참여가 결정됩니다. 3) 지역자활센터에서 상담을 받고 청년자립도전 자활사업단(청년형 게이트웨이)에 배치됩니다. 청년형 게이트웨이는 기존 3개월의 일반 게이트웨이 절차를 거치지 않고 청년이 바로 사업단에 참여할 수 있도록 한 것이 특징입니다.",
+        "documents": [
+          "신분증",
+          "신청서(주민센터·지역자활센터 비치)",
+          "수급자증명서 또는 차상위계층 확인서(해당자)",
+          "소득·재산 신고 관련 서류(수급자가 아닌 경우)"
+        ],
+        "contact": "거주지 읍·면·동 주민센터(행정복지센터) 또는 관할 지역자활센터. 일반 안내는 보건복지상담센터 ☎129(국번없이). 자활사업 총괄은 한국자활복지개발원."
+      },
+      "lifeImpact": "자활사업에 참여하는 청년의 역량강화비가 1인당 220만 원에서 300만 원으로 80만 원 인상됩니다. 역량강화비는 청년이 자격증 취득, 직업훈련, 학습 등 자립 준비에 쓸 수 있는 비용으로, 80만 원이 늘어나면 그만큼 더 많은 교육·훈련 기회를 부담 없이 시도할 수 있습니다. 또한 '청년형 게이트웨이'가 새로 생겨, 기존에는 모든 참여자가 약 3개월간 거치던 일반 진입 절차를 건너뛰고 청년이 바로 사업단에 참여할 수 있게 됩니다. 심리·정서지원 프로그램도 신설되어, 자존감 저하·불안 등으로 취·창업 준비에 어려움을 겪던 청년이 전문 상담과 초기 적응 지원을 받을 수 있습니다. 기존에는 '빨리 취업·창업하라'는 결과 중심 지원이었다면, 이제는 청년 개개인의 준비 상황에 맞춰 천천히 자립을 돕는 방식으로 바뀝니다. 현장실습(인턴십)도 활성화되어 실제 일 경험을 쌓을 기회가 늘어납니다. 2026년 4월 29일부터 시행되었습니다.",
+      "internationalCases": [
+        {
+          "country": "영국 (UK)",
+          "policyName": "Youth Obligation Support Programme (Universal Credit) — 청년의무 지원 프로그램 (현재 GOV.UK상 철회·대체 진행 중)",
+          "similarity": "18~21세 청년이 Universal Credit 신규 신청 시 즉각적 구직 압박 대신 워크숍·역량강화 중심의 집중지원(Intensive Activity Programme)을 개인 맞춤형으로 제공. 6개월 후에도 미취업 시 직업훈련·직장체험을 결합한 sector-based work academy 또는 traineeship으로 연계 — 본 정책의 '준비 상황 맞춤형 지원'·'현장실습 활성화'와 동일한 단계적·맞춤형 활성화 접근. 2025년 봄부터는 8개 지자체에서 18~21세 대상 Youth Guarantee Trailblazers 시범사업으로 맞춤형 지원을 시험.",
+          "difference": "영국은 Universal Credit(통합급여) 수급 조건(conditionality)과 연동된 의무적 프로그램으로 구직요건 미충족 시 제재가 따르는 반면, 한국은 기초생활보장 자활사업 참여자 대상으로 역량강화비(220만→300만원) 등 현금성 지원 확대와 심리·정서지원 신설에 초점. 영국은 직접 현금 인센티브보다 서비스 연계 중심. 다만 해당 GOV.UK 가이던스는 현재 'Withdrawn(철회)' 상태로 표기되어 있어 현행 운영 여부는 대체 프로그램으로 진행 중인 점에 유의.",
+          "source": "GOV.UK '[Withdrawn] Support for 18 to 21 year olds claiming Universal Credit' (https://www.gov.uk/guidance/support-for-18-to-21-year-olds-claiming-universal-credit); JRF 'Unlocking the potential of young people furthest from the labour market' (https://www.jrf.org.uk/work/unlocking-the-potential-of-young-people-furthest-from-the-labour-market); Centrepoint 'The Youth Obligation in Universal Credit'"
+        },
+        {
+          "country": "독일 (Germany)",
+          "policyName": "Bürgergeld (시민수당) 청년(25세 이하) 우선지원 및 코칭 — Jobcenter Coaching / 통합협약(Eingliederungsvereinbarung)",
+          "similarity": "25세 이하 청년 Bürgergeld 수급자를 직업훈련·일자리 배정 시 우선 배려하고, Jobcenter가 가정방문까지 가능한 집중 코칭(coaching)과 개별 통합목표·지원조치를 담은 통합협약을 제공 — 본 정책의 '청년형 진입지원체계(게이트웨이)·맞춤형 사례관리'와 유사한 개인 맞춤 동행지원. 장기적 직업복귀 프로그램 참여 청년에게 월 75유로 Bürgergeld 보너스·훈련 보너스를 지급하는 점은 한국의 역량강화비 인상과 유사한 참여 인센티브.",
+          "difference": "독일은 전국 단위 기초소득보장(Bürgergeld) 제도 내에서 청년을 별도 우선순위 집단으로 두는 구조이며 보너스가 월 75유로 정액. 한국은 자활사업단(5명 이상 구성) 단위의 집단형 사업이며 역량강화비를 1인당 300만원으로 일괄 인상. 또한 독일은 2025년 내각이 Bürgergeld를 'Neue Grundsicherung'으로 개편 추진 중이라 제도 명칭·조건이 변동 국면.",
+          "source": "BMAS(독일 연방노동사회부) 'Basic income support for jobseekers' (https://www.bmas.de/EN/Labour/Basic-income-support-for-jobseekers/basic-income-support-for-jobseekers.html); EACEA Youth Wiki Germany '3.6 Integration of young people in the labour market' (https://national-policies.eacea.ec.europa.eu/youthwiki/chapters/germany/36-integration-of-young-people-in-the-labour-market)"
+        }
+      ],
+      "factCheck": {
+        "status": "partial",
+        "checkedAt": "2026-06-12",
+        "fact_badge": "일부 확인 완료",
+        "sources": [
+          "https://biz.heraldcorp.com/article/10727417 (헤럴드경제)",
+          "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156749827 (정책브리핑)",
+          "https://www.gov.uk/guidance/support-for-18-to-21-year-olds-claiming-universal-credit (GOV.UK, 현재 Withdrawn)",
+          "https://centrepoint.org.uk/research-reports/youth-obligation-universal-credit-briefing (Centrepoint)"
+        ],
+        "notes": "일부 확인 완료. 역량강화비 220만→300만(80만 증액)·심리정서지원 신설·청년형 게이트웨이 도입은 1차/언론 출처로 확인. 정정 반영: (1) 시행일을 '2026년 5월'에서 공식 발표 시행일인 '2026년 4월 29일'로 정정, (2) 대상 연령 '18~39세'는 1차 출처 독립 확인 불가로 '(미확인)' 태깅, (3) 영국 Youth Obligation Support Programme 사례는 GOV.UK상 '철회·대체 진행 중' 단서 추가."
+      },
+      "source": {
+        "url": "https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1490790&mid=a10503000000",
+        "siteName": "보건복지부",
+        "publishedAt": "2026-06-11"
+      },
+      "tags": ["기초생활보장", "자활지원", "청년", "역량강화비", "청년형게이트웨이"]
+    },
     {
       "id": "2026-0008",
       "date": "2026-06-09",
